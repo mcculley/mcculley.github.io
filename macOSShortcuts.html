@@ -2,103 +2,189 @@
 <html>
   <head>
     <title>macOS/iOS Keyboard Shortcuts</title>
-    <style>
-      .title {
-        text-align: center;
-      }
-
-      .footer {
-        text-align: center;
-      }
-
-      .key {
-        border: 1px solid #aaa;
-        border-radius: 0.2em;
-        background-color: white;
-        padding: 0.01em 0.3em;
-      }
-    </style>
+    <link rel="stylesheet" type="text/css" href="./style.css">
   </head>
   <body>
     <h1 class="title">macOS/iOS Keyboard Shortcuts</h1>
 
-    <div id="typesetting">
-      <h2>Typesetting</h2>
-      <p>
-        <code><span class="key">control</span> <span class="key">&#8984;</span> <span class="key">+</span></code> for superscript (e.g., x<sup>2</sup>)<br/>
-        <code><span class="key">control</span> <span class="key">&#8984;</span> <span class="key">-</span></code> for subscript (e.g., H<sub>2</sub>O)
-      </p>
+    <div class="grid">
+      <div id="typesetting">
+        <h2>Typesetting</h2>
+        <table>
+          <tr>
+            <td>
+                <code><span class="key">control</span> <span class="key">&#8984;</span> <span class="key">+</span></code>
+            </td>
+            <td>
+                superscript <small>(e.g., x<sup>2</sup>)</small>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                <code><span class="key">control</span> <span class="key">&#8984;</span> <span class="key">-</span></code>
+            </td>
+            <td>
+                subscript <small>(e.g., H<sub>2</sub>O)</small>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <div id="miscellaneousSymbols">
+        <h2>Miscellaneous Symbols</h2>
+        <table>
+          <tr>
+            <td>
+                <code><span class="key">option</span> <span class="key">4</span></code>
+            </td>
+            <td>
+                &cent; <small>(cent)</small>
+            </td>
+          </tr>
+          <tr>
+              <td>
+                  <code><span class="key">option</span> <span class="key">shift</span> <span class="key">8</span></code>
+              </td>
+              <td>
+                  &deg; <small>(degree)</small>
+              </td>
+          </tr>
+          <tr>
+              <td>
+                  <code><span class="key">alt</span> <span class="key">2</span></code>
+              </td>
+              <td>
+                  &trade; <small>(trademark)</small>
+              </td>
+          </tr>
+        </table>
+      </div>
+
+      <div id="screenshots">
+        <h2>Screenshots</h2>
+        <p><small>add <span class="key">control</span> to save to the clipboard instead of the desktop</small></p>
+        <table>
+          <tr>
+            <td>
+                <code><span class="key">&#8984;</span> <span class="key">shift</span> <span class="key">3</span></code>
+            </td>
+            <td>
+                a file containing a screenshot of the entire screen is added to your desktop
+            </td>
+          </tr>
+          <tr>
+            <td>
+                <code><span class="key">&#8984;</span> <span class="key">shift</span> <span class="key">4</span></code>
+            </td>
+            <td>
+                a file containing a screenshot of an area is added to your desktop
+            </td>
+          </tr>
+          <tr>
+            <td>
+                <code><span class="key">&#8984;</span> <span class="key">shift</span> <span class="key">4</span> <span class="key">space</span></code>
+            </td>
+            <td>
+              a file containing a screenshot of a specified window is added to your desktop
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <div id="textNavigation">
+        <h2>Text Navigation/Selection</h2>
+        <p><small>add <code><span class="key">shift</span></code> to select text between cursor and jump point</small></p>
+        <table>
+          <tr>
+            <td>
+                <code><span class="key">&#8984;</span> <span class="key">&larr;</span></code>
+            </td>
+            <td>
+                jump to beginning of line
+            </td>
+          </tr>
+          <tr>
+            <td>
+                <code><span class="key">&#8984;</span> <span class="key">&rarr;</span></code>
+            </td>
+            <td>
+                jump to end of line
+            </td>
+          </tr>
+          <tr>
+            <td>
+                <code><span class="key">option</span> <span class="key">&larr;</span></code>
+            </td>
+            <td>
+                jump to beginning of current word
+            </td>
+          </tr>
+          <tr>
+            <td>
+                <code><span class="key">option</span> <span class="key">&rarr;</span></code>
+            </td>
+            <td>
+                jump to end of current word
+            </td>
+          </tr>
+          <tr>
+            <td>
+                <code><span class="key">option</span> <span class="key">&uarr;</span></code>
+            </td>
+            <td>
+                jump to beginning of document
+            </td>
+          </tr>
+          <tr>
+            <td>
+                <code><span class="key">option</span> <span class="key">&darr;</span></code>
+            </td>
+            <td>
+              jump to end of document
+            </td>
+          </tr>
+        </table>
+      </div>
     </div>
 
-    <div id="miscellaneousSymbols">
-      <h2>Miscellaneous Symbols</h2>
-      <p>
-        <code><span class="key">option</span> <span class="key">4</span></code> for &cent; (cent)</br>
-        <code><span class="key">option</span> <span class="key">shift</span> <span class="key">8</span></code> for &deg; (degree)</br>
-        <code><span class="key">alt</span> <span class="key">2</span></code> for &trade; (trademark)</br>
-      </p>
-    </div>
 
     <div id="diacritics">
-      <h2>Diacritics</h2>
-      <table>
-        <thead>
-          <tr><th>Accent</th><th>Keystroke</th><th>Examples</th><th></th></tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Acute</td>
-            <td><code><span class="key">option</span> <span class="key">e</span> <span class="key">letter</span></td>
-            <td>&Aacute; &aacute; &Eacute; &eacute; &Iacute; &iacute; &Oacute; &oacute; &Uacute; &uacute;</td>
-          </tr>
-          <tr>
-            <td>Macron</td>
-            <td><code><span class="key">option</span> <span class="key">a</span> <span class="key">letter</span></td>
-            <td>&Amacr; &amacr; &Emacr; &emacr; &Imacr; &imacr; &Omacr; &omacr; &Umacr; &umacr;</td>
-            <td>(U.S. Extended keyboard must be active)</td>
-          </tr>
-          <tr>
-            <td>Grave</td>
-            <td><code><span class="key">option</span> <span class="key">`</span> <span class="key">letter</span></td>
-            <td>&Agrave; &agrave; &Egrave; &egrave; &Igrave; &igrave; &Ograve; &ograve; &Ugrave; &ugrave;</td>
-          </tr>
-          <tr>
-            <td>Tilde</td>
-            <td><code><span class="key">option</span> <span class="key">n</span> <span class="key">letter</span></td>
-            <td>&Atilde; &atilde; &Itilde; &itilde; &Ntilde; &ntilde; &Otilde; &otilde; &Utilde; &utilde;</td>
-          </tr>
-          <tr>
-            <td>Umlaut</td>
-            <td><code><span class="key">option</span> <span class="key">u</span> <span class="key">letter</span></td>
-            <td>&Auml; &auml; &Euml; &euml; &Iuml; &iuml; &Ouml; &ouml; &Uuml; &uuml;</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
+        <h2>Diacritics</h2>
+        <table>
+          <thead>
+            <tr><th>Keystroke</th><th>Accent</th><th>Examples</th><th></th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><code><span class="key">option</span> <span class="key">e</span> <span class="key">letter</span></td>
+                <td>Acute</td>
+              <td>&Aacute; &aacute; &Eacute; &eacute; &Iacute; &iacute; &Oacute; &oacute; &Uacute; &uacute;</td>
+            </tr>
+            <tr>
+              <td><code><span class="key">option</span> <span class="key">a</span> <span class="key">letter</span></td>
+                <td>Macron</td>
+              <td>&Amacr; &amacr; &Emacr; &emacr; &Imacr; &imacr; &Omacr; &omacr; &Umacr; &umacr;</td>
+              <td><small>(U.S. Extended keyboard must be active)</small></td>
+            </tr>
+            <tr>
+              <td><code><span class="key">option</span> <span class="key">`</span> <span class="key">letter</span></td>
+                <td>Grave</td>
+              <td>&Agrave; &agrave; &Egrave; &egrave; &Igrave; &igrave; &Ograve; &ograve; &Ugrave; &ugrave;</td>
+            </tr>
+            <tr>
+              <td><code><span class="key">option</span> <span class="key">n</span> <span class="key">letter</span></td>
+                <td>Tilde</td>
+              <td>&Atilde; &atilde; &Itilde; &itilde; &Ntilde; &ntilde; &Otilde; &otilde; &Utilde; &utilde;</td>
+            </tr>
+            <tr>
+              <td><code><span class="key">option</span> <span class="key">u</span> <span class="key">letter</span></td>
+                <td>Umlaut</td>
+              <td>&Auml; &auml; &Euml; &euml; &Iuml; &iuml; &Ouml; &ouml; &Uuml; &uuml;</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
 
-    <div id="screenshots">
-      <h2>Screenshots</h2>
-      <p>
-        <code><span class="key">&#8984;</span> <span class="key">shift</span> <span class="key">3</span></code> a file containing a screenshot of the entire screen is added to your desktop<br/>
-        <code><span class="key">&#8984;</span> <span class="key">shift</span> <span class="key">4</span></code> a file containing a screenshot of an area is added to your desktop<br/>
-        <code><span class="key">&#8984;</span> <span class="key">shift</span> <span class="key">4</span> <span class="key">space</span></code> a file containing a screenshot of a specified window is added to your desktop<br/>
-        add <span class="key">control</span> to save to the clipboard instead of the desktop
-      </p>
-    </div>
-
-    <div id="textNavigation">
-      <h2>Text Navigation/Selection</h2>
-      <p>
-        <code><span class="key">&#8984;</span> <span class="key">&larr;</span></code> jump to beginning of line<br/>
-        <code><span class="key">&#8984;</span> <span class="key">&rarr;</span></code> jump to end of line<br/>
-        <code><span class="key">option</span> <span class="key">&larr;</span></code> jump to beginning of current word<br/>
-        <code><span class="key">option</span> <span class="key">&rarr;</span></code> jump to end of current word<br/>
-        <code><span class="key">option</span> <span class="key">&uarr;</span></code> jump to beginning of document<br/>
-        <code><span class="key">option</span> <span class="key">&darr;</span></code> jump to end of document<br/>
-        add <code><span class="key">shift</span></code> to select text between cursor and jump point
-      </p>
-    </div>
-
-    <p class="footer">&copy; 2018 <a href="https://enki.org/">Gene McCulley</a></p>
+    <div class="footer">&copy; 2018 <a href="https://enki.org/">Gene McCulley</a></div>
   </body>
 </html>
