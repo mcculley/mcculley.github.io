@@ -55,57 +55,59 @@ North Carolina,2021-01-02,27.28
 North Carolina,2021-01-09,28.28
 North Carolina,2021-01-16,29.02
 North Carolina,2021-01-23,28.16
-North Carolina,2021-01-30,28.13
-North Carolina,2021-02-06,25.46
-North Carolina,2021-02-13,24.25
-North Carolina,2021-02-20,23.36
+North Carolina,2021-01-30,28.14
+North Carolina,2021-02-06,25.47
+North Carolina,2021-02-13,24.28
+North Carolina,2021-02-20,23.38
 North Carolina,2021-02-27,21.42
-North Carolina,2021-03-06,20.54
-North Carolina,2021-03-13,19.63
-North Carolina,2021-03-20,19.45
-North Carolina,2021-03-27,19.45
-North Carolina,2021-04-03,18.66
-North Carolina,2021-04-10,20.25
-North Carolina,2021-04-17,19.10
-North Carolina,2021-04-24,19.47
-North Carolina,2021-05-01,19.76
-North Carolina,2021-05-08,19.98
-North Carolina,2021-05-15,19.13
-North Carolina,2021-05-22,18.82
+North Carolina,2021-03-06,20.55
+North Carolina,2021-03-13,19.65
+North Carolina,2021-03-20,19.46
+North Carolina,2021-03-27,19.47
+North Carolina,2021-04-03,18.67
+North Carolina,2021-04-10,20.26
+North Carolina,2021-04-17,19.12
+North Carolina,2021-04-24,19.48
+North Carolina,2021-05-01,19.78
+North Carolina,2021-05-08,20.00
+North Carolina,2021-05-15,19.14
+North Carolina,2021-05-22,18.84
 North Carolina,2021-05-29,19.91
-North Carolina,2021-06-05,19.40
-North Carolina,2021-06-12,18.68
-North Carolina,2021-06-19,18.64
-North Carolina,2021-06-26,18.13
-North Carolina,2021-07-03,18.36
-North Carolina,2021-07-10,18.36
-North Carolina,2021-07-17,18.84
-North Carolina,2021-07-24,19.08
-North Carolina,2021-07-31,18.80
-North Carolina,2021-08-07,16.59
-North Carolina,2021-08-14,16.12
-North Carolina,2021-08-21,18.83
-North Carolina,2021-08-28,19.96
-North Carolina,2021-09-04,19.98
-North Carolina,2021-09-11,19.90
-North Carolina,2021-09-18,21.05
-North Carolina,2021-09-25,19.23
-North Carolina,2021-10-02,19.22
-North Carolina,2021-10-09,19.69
-North Carolina,2021-10-16,19.27
-North Carolina,2021-10-23,17.80
-North Carolina,2021-10-30,17.36
-North Carolina,2021-11-06,12.60
-North Carolina,2021-11-13,12.66
-North Carolina,2021-11-20,11.84
-North Carolina,2021-11-27,13.07
-North Carolina,2021-12-04,11.38
-North Carolina,2021-12-11,10.64
-North Carolina,2021-12-18,10.32
-North Carolina,2021-12-25,10.14
-North Carolina,2022-01-01,10.17
-North Carolina,2022-01-08,10.64
-North Carolina,2022-01-15,10.20
+North Carolina,2021-06-05,19.41
+North Carolina,2021-06-12,18.72
+North Carolina,2021-06-19,18.66
+North Carolina,2021-06-26,18.16
+North Carolina,2021-07-03,18.41
+North Carolina,2021-07-10,18.47
+North Carolina,2021-07-17,19.00
+North Carolina,2021-07-24,19.25
+North Carolina,2021-07-31,19.05
+North Carolina,2021-08-07,19.53
+North Carolina,2021-08-14,18.85
+North Carolina,2021-08-21,21.06
+North Carolina,2021-08-28,22.42
+North Carolina,2021-09-04,21.17
+North Carolina,2021-09-11,19.94
+North Carolina,2021-09-18,21.12
+North Carolina,2021-09-25,19.45
+North Carolina,2021-10-02,19.32
+North Carolina,2021-10-09,19.80
+North Carolina,2021-10-16,19.34
+North Carolina,2021-10-23,17.87
+North Carolina,2021-10-30,17.50
+North Carolina,2021-11-06,13.40
+North Carolina,2021-11-13,13.54
+North Carolina,2021-11-20,12.86
+North Carolina,2021-11-27,14.15
+North Carolina,2021-12-04,14.30
+North Carolina,2021-12-11,13.89
+North Carolina,2021-12-18,13.57
+North Carolina,2021-12-25,13.15
+North Carolina,2022-01-01,12.87
+North Carolina,2022-01-08,12.68
+North Carolina,2022-01-15,13.66
+North Carolina,2022-01-22,13.25
+North Carolina,2022-01-29,11.49
 Indiana,2020-01-04,21.66
 Indiana,2020-01-11,20.43
 Indiana,2020-01-18,20.47
@@ -187,11 +189,11 @@ Indiana,2021-06-26,18.88
 Indiana,2021-07-03,19.10
 Indiana,2021-07-10,19.70
 Indiana,2021-07-17,19.08
-Indiana,2021-07-24,18.52
+Indiana,2021-07-24,18.54
 Indiana,2021-07-31,19.84
 Indiana,2021-08-07,19.97
 Indiana,2021-08-14,21.21
-Indiana,2021-08-21,22.03
+Indiana,2021-08-21,22.05
 Indiana,2021-08-28,22.80
 Indiana,2021-09-04,22.70
 Indiana,2021-09-11,24.73
@@ -199,23 +201,24 @@ Indiana,2021-09-18,25.11
 Indiana,2021-09-25,25.55
 Indiana,2021-10-02,24.96
 Indiana,2021-10-09,23.93
-Indiana,2021-10-16,23.67
-Indiana,2021-10-23,23.03
-Indiana,2021-10-30,23.90
-Indiana,2021-11-06,23.52
-Indiana,2021-11-13,23.54
-Indiana,2021-11-20,24.07
-Indiana,2021-11-27,24.68
-Indiana,2021-12-04,24.43
-Indiana,2021-12-11,26.70
-Indiana,2021-12-18,26.78
-Indiana,2021-12-25,26.25
-Indiana,2022-01-01,25.32
-Indiana,2022-01-08,25.64
-Indiana,2022-01-15,27.66
-Indiana,2022-01-22,23.48
-Indiana,2022-01-29,17.73
-Indiana,2022-02-05,12.76
+Indiana,2021-10-16,23.68
+Indiana,2021-10-23,23.06
+Indiana,2021-10-30,23.92
+Indiana,2021-11-06,23.56
+Indiana,2021-11-13,23.55
+Indiana,2021-11-20,24.12
+Indiana,2021-11-27,24.74
+Indiana,2021-12-04,24.52
+Indiana,2021-12-11,26.78
+Indiana,2021-12-18,26.85
+Indiana,2021-12-25,26.42
+Indiana,2022-01-01,25.64
+Indiana,2022-01-08,25.98
+Indiana,2022-01-15,28.25
+Indiana,2022-01-22,24.55
+Indiana,2022-01-29,19.35
+Indiana,2022-02-05,16.95
+Indiana,2022-02-12,13.00
 Wyoming,2020-01-04,24.96
 Wyoming,2020-01-11,14.04
 Wyoming,2020-01-18,17.86
@@ -319,13 +322,14 @@ Wyoming,2021-11-27,23.23
 Wyoming,2021-12-04,18.38
 Wyoming,2021-12-11,21.67
 Wyoming,2021-12-18,16.99
-Wyoming,2021-12-25,22.36
+Wyoming,2021-12-25,22.54
 Wyoming,2022-01-01,18.72
-Wyoming,2022-01-08,21.32
-Wyoming,2022-01-15,20.28
-Wyoming,2022-01-22,19.24
-Wyoming,2022-01-29,16.99
-Wyoming,2022-02-05,11.79
+Wyoming,2022-01-08,21.84
+Wyoming,2022-01-15,20.80
+Wyoming,2022-01-22,20.28
+Wyoming,2022-01-29,20.11
+Wyoming,2022-02-05,17.68
+Wyoming,2022-02-12,9.53
 Utah,2020-01-04,11.98
 Utah,2020-01-11,13.39
 Utah,2020-01-18,12.50
@@ -430,12 +434,12 @@ Utah,2021-12-04,15.53
 Utah,2021-12-11,15.74
 Utah,2021-12-18,14.67
 Utah,2021-12-25,14.92
-Utah,2022-01-01,14.40
+Utah,2022-01-01,14.43
 Utah,2022-01-08,15.37
-Utah,2022-01-15,14.98
-Utah,2022-01-22,16.26
-Utah,2022-01-29,15.28
-Utah,2022-02-05,10.61
+Utah,2022-01-15,15.04
+Utah,2022-01-22,16.44
+Utah,2022-01-29,16.32
+Utah,2022-02-05,12.35
 Arizona,2020-01-04,18.19
 Arizona,2020-01-11,19.45
 Arizona,2020-01-18,18.39
@@ -497,7 +501,7 @@ Arizona,2021-02-06,27.95
 Arizona,2021-02-13,24.37
 Arizona,2021-02-20,21.74
 Arizona,2021-02-27,21.25
-Arizona,2021-03-06,20.93
+Arizona,2021-03-06,20.95
 Arizona,2021-03-13,19.80
 Arizona,2021-03-20,19.49
 Arizona,2021-03-27,18.02
@@ -510,15 +514,15 @@ Arizona,2021-05-08,19.80
 Arizona,2021-05-15,18.54
 Arizona,2021-05-22,17.55
 Arizona,2021-05-29,17.53
-Arizona,2021-06-05,18.67
-Arizona,2021-06-12,18.23
+Arizona,2021-06-05,18.68
+Arizona,2021-06-12,18.25
 Arizona,2021-06-19,19.00
 Arizona,2021-06-26,19.42
 Arizona,2021-07-03,18.61
 Arizona,2021-07-10,18.18
 Arizona,2021-07-17,19.06
 Arizona,2021-07-24,17.59
-Arizona,2021-07-31,18.25
+Arizona,2021-07-31,18.26
 Arizona,2021-08-07,21.07
 Arizona,2021-08-14,20.53
 Arizona,2021-08-21,20.95
@@ -529,23 +533,24 @@ Arizona,2021-09-18,22.62
 Arizona,2021-09-25,22.05
 Arizona,2021-10-02,22.57
 Arizona,2021-10-09,21.58
-Arizona,2021-10-16,21.38
+Arizona,2021-10-16,21.39
 Arizona,2021-10-23,20.64
 Arizona,2021-10-30,22.29
-Arizona,2021-11-06,21.98
-Arizona,2021-11-13,23.77
-Arizona,2021-11-20,24.69
+Arizona,2021-11-06,22.00
+Arizona,2021-11-13,23.79
+Arizona,2021-11-20,24.72
 Arizona,2021-11-27,25.35
-Arizona,2021-12-04,25.81
-Arizona,2021-12-11,27.41
-Arizona,2021-12-18,25.84
-Arizona,2021-12-25,27.62
-Arizona,2022-01-01,25.84
-Arizona,2022-01-08,27.50
-Arizona,2022-01-15,25.00
-Arizona,2022-01-22,24.55
-Arizona,2022-01-29,22.79
-Arizona,2022-02-05,15.58
+Arizona,2021-12-04,25.83
+Arizona,2021-12-11,27.42
+Arizona,2021-12-18,25.88
+Arizona,2021-12-25,27.67
+Arizona,2022-01-01,25.98
+Arizona,2022-01-08,27.73
+Arizona,2022-01-15,25.42
+Arizona,2022-01-22,25.37
+Arizona,2022-01-29,25.56
+Arizona,2022-02-05,20.39
+Arizona,2022-02-12,15.37
 Montana,2020-01-04,21.31
 Montana,2020-01-11,19.46
 Montana,2020-01-18,18.63
@@ -647,15 +652,16 @@ Montana,2021-11-13,26.38
 Montana,2021-11-20,27.95
 Montana,2021-11-27,24.53
 Montana,2021-12-04,24.53
-Montana,2021-12-11,23.06
+Montana,2021-12-11,23.15
 Montana,2021-12-18,26.19
 Montana,2021-12-25,21.86
 Montana,2022-01-01,22.60
-Montana,2022-01-08,24.90
-Montana,2022-01-15,22.23
-Montana,2022-01-22,22.50
-Montana,2022-01-29,16.14
-Montana,2022-02-05,12.36
+Montana,2022-01-08,24.99
+Montana,2022-01-15,22.69
+Montana,2022-01-22,23.98
+Montana,2022-01-29,22.78
+Montana,2022-02-05,16.51
+Montana,2022-02-12,11.99
 Kentucky,2020-01-04,24.26
 Kentucky,2020-01-11,23.48
 Kentucky,2020-01-18,23.10
@@ -714,14 +720,14 @@ Kentucky,2021-01-16,31.05
 Kentucky,2021-01-23,29.34
 Kentucky,2021-01-30,27.94
 Kentucky,2021-02-06,25.97
-Kentucky,2021-02-13,25.90
+Kentucky,2021-02-13,25.92
 Kentucky,2021-02-20,25.37
 Kentucky,2021-02-27,24.70
 Kentucky,2021-03-06,23.86
 Kentucky,2021-03-13,25.19
 Kentucky,2021-03-20,22.73
 Kentucky,2021-03-27,22.93
-Kentucky,2021-04-03,21.88
+Kentucky,2021-04-03,21.93
 Kentucky,2021-04-10,23.70
 Kentucky,2021-04-17,23.19
 Kentucky,2021-04-24,22.93
@@ -731,40 +737,42 @@ Kentucky,2021-05-15,21.24
 Kentucky,2021-05-22,23.24
 Kentucky,2021-05-29,23.19
 Kentucky,2021-06-05,21.79
-Kentucky,2021-06-12,22.37
+Kentucky,2021-06-12,22.39
 Kentucky,2021-06-19,23.81
-Kentucky,2021-06-26,22.42
+Kentucky,2021-06-26,22.46
 Kentucky,2021-07-03,21.93
 Kentucky,2021-07-10,21.95
-Kentucky,2021-07-17,22.30
+Kentucky,2021-07-17,22.35
 Kentucky,2021-07-24,22.64
-Kentucky,2021-07-31,22.70
+Kentucky,2021-07-31,22.73
 Kentucky,2021-08-07,23.97
-Kentucky,2021-08-14,24.70
+Kentucky,2021-08-14,24.72
 Kentucky,2021-08-21,26.52
 Kentucky,2021-08-28,28.01
 Kentucky,2021-09-04,31.38
-Kentucky,2021-09-11,30.58
-Kentucky,2021-09-18,31.34
-Kentucky,2021-09-25,32.09
-Kentucky,2021-10-02,31.51
+Kentucky,2021-09-11,30.65
+Kentucky,2021-09-18,31.36
+Kentucky,2021-09-25,32.14
+Kentucky,2021-10-02,31.56
 Kentucky,2021-10-09,28.43
-Kentucky,2021-10-16,28.30
-Kentucky,2021-10-23,26.10
-Kentucky,2021-10-30,24.79
-Kentucky,2021-11-06,25.32
-Kentucky,2021-11-13,24.61
-Kentucky,2021-11-20,25.86
-Kentucky,2021-11-27,25.23
-Kentucky,2021-12-04,25.39
-Kentucky,2021-12-11,27.87
-Kentucky,2021-12-18,25.41
-Kentucky,2021-12-25,26.90
-Kentucky,2022-01-01,25.70
-Kentucky,2022-01-08,24.83
-Kentucky,2022-01-15,25.03
-Kentucky,2022-01-22,20.64
-Kentucky,2022-01-29,15.09
+Kentucky,2021-10-16,28.34
+Kentucky,2021-10-23,26.17
+Kentucky,2021-10-30,24.90
+Kentucky,2021-11-06,25.41
+Kentucky,2021-11-13,24.66
+Kentucky,2021-11-20,25.99
+Kentucky,2021-11-27,25.48
+Kentucky,2021-12-04,25.70
+Kentucky,2021-12-11,28.07
+Kentucky,2021-12-18,25.74
+Kentucky,2021-12-25,27.39
+Kentucky,2022-01-01,26.81
+Kentucky,2022-01-08,26.54
+Kentucky,2022-01-15,26.92
+Kentucky,2022-01-22,24.70
+Kentucky,2022-01-29,23.28
+Kentucky,2022-02-05,17.91
+Kentucky,2022-02-12,11.70
 Kansas,2020-01-04,20.12
 Kansas,2020-01-11,19.06
 Kansas,2020-01-18,19.61
@@ -828,7 +836,7 @@ Kansas,2021-02-20,20.01
 Kansas,2021-02-27,20.25
 Kansas,2021-03-06,18.82
 Kansas,2021-03-13,17.97
-Kansas,2021-03-20,17.22
+Kansas,2021-03-20,17.26
 Kansas,2021-03-27,17.73
 Kansas,2021-04-03,17.77
 Kansas,2021-04-10,17.26
@@ -865,16 +873,17 @@ Kansas,2021-11-06,21.55
 Kansas,2021-11-13,21.21
 Kansas,2021-11-20,19.54
 Kansas,2021-11-27,21.95
-Kansas,2021-12-04,21.34
+Kansas,2021-12-04,21.38
 Kansas,2021-12-11,23.42
 Kansas,2021-12-18,24.51
-Kansas,2021-12-25,24.41
-Kansas,2022-01-01,25.77
-Kansas,2022-01-08,27.26
-Kansas,2022-01-15,29.00
-Kansas,2022-01-22,27.06
-Kansas,2022-01-29,23.25
-Kansas,2022-02-05,16.07
+Kansas,2021-12-25,24.51
+Kansas,2022-01-01,25.87
+Kansas,2022-01-08,27.40
+Kansas,2022-01-15,29.34
+Kansas,2022-01-22,27.81
+Kansas,2022-01-29,26.86
+Kansas,2022-02-05,22.47
+Kansas,2022-02-12,17.60
 California,2020-01-04,14.89
 California,2020-01-11,14.85
 California,2020-01-18,14.75
@@ -939,7 +948,7 @@ California,2021-02-27,17.01
 California,2021-03-06,16.31
 California,2021-03-13,15.72
 California,2021-03-20,15.16
-California,2021-03-27,14.65
+California,2021-03-27,14.66
 California,2021-04-03,14.55
 California,2021-04-10,13.72
 California,2021-04-17,13.54
@@ -951,40 +960,41 @@ California,2021-05-22,13.31
 California,2021-05-29,13.52
 California,2021-06-05,13.15
 California,2021-06-12,13.10
-California,2021-06-19,13.83
-California,2021-06-26,13.51
+California,2021-06-19,13.84
+California,2021-06-26,13.52
 California,2021-07-03,13.28
-California,2021-07-10,13.33
+California,2021-07-10,13.34
 California,2021-07-17,13.37
-California,2021-07-24,13.71
+California,2021-07-24,13.72
 California,2021-07-31,13.90
 California,2021-08-07,14.47
-California,2021-08-14,15.26
-California,2021-08-21,15.85
+California,2021-08-14,15.27
+California,2021-08-21,15.86
 California,2021-08-28,16.02
 California,2021-09-04,16.27
 California,2021-09-11,16.68
 California,2021-09-18,15.94
 California,2021-09-25,16.07
-California,2021-10-02,15.50
+California,2021-10-02,15.51
 California,2021-10-09,15.37
 California,2021-10-16,15.13
-California,2021-10-23,15.85
-California,2021-10-30,15.34
-California,2021-11-06,15.14
-California,2021-11-13,15.25
-California,2021-11-20,15.25
-California,2021-11-27,15.04
-California,2021-12-04,15.28
-California,2021-12-11,15.53
-California,2021-12-18,16.33
-California,2021-12-25,16.29
-California,2022-01-01,16.46
-California,2022-01-08,17.42
-California,2022-01-15,17.64
-California,2022-01-22,15.46
-California,2022-01-29,12.06
-California,2022-02-05,8.00
+California,2021-10-23,15.86
+California,2021-10-30,15.35
+California,2021-11-06,15.15
+California,2021-11-13,15.27
+California,2021-11-20,15.26
+California,2021-11-27,15.07
+California,2021-12-04,15.30
+California,2021-12-11,15.56
+California,2021-12-18,16.41
+California,2021-12-25,16.40
+California,2022-01-01,16.66
+California,2022-01-08,17.91
+California,2022-01-15,18.47
+California,2022-01-22,17.42
+California,2022-01-29,15.91
+California,2022-02-05,12.76
+California,2022-02-12,8.14
 Florida,2020-01-04,20.15
 Florida,2020-01-11,20.48
 Florida,2020-01-18,20.36
@@ -1051,7 +1061,7 @@ Florida,2021-03-13,21.52
 Florida,2021-03-20,21.28
 Florida,2021-03-27,21.97
 Florida,2021-04-03,20.79
-Florida,2021-04-10,21.81
+Florida,2021-04-10,21.82
 Florida,2021-04-17,21.55
 Florida,2021-04-24,21.90
 Florida,2021-05-01,20.78
@@ -1076,24 +1086,25 @@ Florida,2021-09-04,33.36
 Florida,2021-09-11,31.54
 Florida,2021-09-18,29.17
 Florida,2021-09-25,27.16
-Florida,2021-10-02,25.51
+Florida,2021-10-02,25.52
 Florida,2021-10-09,23.63
 Florida,2021-10-16,22.74
 Florida,2021-10-23,21.39
-Florida,2021-10-30,21.29
+Florida,2021-10-30,21.28
 Florida,2021-11-06,21.08
-Florida,2021-11-13,21.10
+Florida,2021-11-13,21.11
 Florida,2021-11-20,21.26
 Florida,2021-11-27,20.13
 Florida,2021-12-04,21.55
 Florida,2021-12-11,21.39
-Florida,2021-12-18,20.88
-Florida,2021-12-25,20.60
-Florida,2022-01-01,21.39
-Florida,2022-01-08,21.17
-Florida,2022-01-15,18.78
-Florida,2022-01-22,22.22
-Florida,2022-01-29,16.70
+Florida,2021-12-18,20.89
+Florida,2021-12-25,20.61
+Florida,2022-01-01,21.43
+Florida,2022-01-08,21.26
+Florida,2022-01-15,19.05
+Florida,2022-01-22,23.12
+Florida,2022-01-29,19.52
+Florida,2022-02-05,13.53
 Delaware,2020-01-04,20.10
 Delaware,2020-01-11,19.60
 Delaware,2020-01-18,19.19
@@ -1166,7 +1177,7 @@ Delaware,2021-04-24,21.11
 Delaware,2021-05-01,20.61
 Delaware,2021-05-08,19.39
 Delaware,2021-05-15,20.41
-Delaware,2021-05-22,21.42
+Delaware,2021-05-22,21.52
 Delaware,2021-05-29,20.20
 Delaware,2021-06-05,17.37
 Delaware,2021-06-12,19.39
@@ -1193,17 +1204,18 @@ Delaware,2021-10-30,24.14
 Delaware,2021-11-06,19.90
 Delaware,2021-11-13,23.44
 Delaware,2021-11-20,19.19
-Delaware,2021-11-27,22.93
-Delaware,2021-12-04,24.55
+Delaware,2021-11-27,23.13
+Delaware,2021-12-04,24.65
 Delaware,2021-12-11,23.23
-Delaware,2021-12-18,24.55
+Delaware,2021-12-18,24.65
 Delaware,2021-12-25,23.23
-Delaware,2022-01-01,24.65
-Delaware,2022-01-08,25.76
-Delaware,2022-01-15,26.77
-Delaware,2022-01-22,29.60
-Delaware,2022-01-29,21.72
-Delaware,2022-02-05,12.83
+Delaware,2022-01-01,24.75
+Delaware,2022-01-08,26.06
+Delaware,2022-01-15,27.78
+Delaware,2022-01-22,32.02
+Delaware,2022-01-29,26.67
+Delaware,2022-02-05,19.80
+Delaware,2022-02-12,15.05
 Pennsylvania,2020-01-04,21.42
 Pennsylvania,2020-01-11,21.91
 Pennsylvania,2020-01-18,22.01
@@ -1258,18 +1270,18 @@ Pennsylvania,2020-12-19,34.27
 Pennsylvania,2020-12-26,34.53
 Pennsylvania,2021-01-02,34.04
 Pennsylvania,2021-01-09,30.81
-Pennsylvania,2021-01-16,29.90
+Pennsylvania,2021-01-16,29.91
 Pennsylvania,2021-01-23,29.60
 Pennsylvania,2021-01-30,27.60
 Pennsylvania,2021-02-06,26.09
-Pennsylvania,2021-02-13,24.87
+Pennsylvania,2021-02-13,24.88
 Pennsylvania,2021-02-20,24.00
 Pennsylvania,2021-02-27,22.25
 Pennsylvania,2021-03-06,21.28
 Pennsylvania,2021-03-13,20.86
 Pennsylvania,2021-03-20,21.80
 Pennsylvania,2021-03-27,20.90
-Pennsylvania,2021-04-03,20.35
+Pennsylvania,2021-04-03,20.36
 Pennsylvania,2021-04-10,21.47
 Pennsylvania,2021-04-17,22.01
 Pennsylvania,2021-04-24,21.60
@@ -1278,12 +1290,12 @@ Pennsylvania,2021-05-08,21.22
 Pennsylvania,2021-05-15,21.00
 Pennsylvania,2021-05-22,21.00
 Pennsylvania,2021-05-29,19.63
-Pennsylvania,2021-06-05,20.33
-Pennsylvania,2021-06-12,18.81
-Pennsylvania,2021-06-19,19.37
-Pennsylvania,2021-06-26,19.23
-Pennsylvania,2021-07-03,19.44
-Pennsylvania,2021-07-10,19.26
+Pennsylvania,2021-06-05,20.35
+Pennsylvania,2021-06-12,18.83
+Pennsylvania,2021-06-19,19.40
+Pennsylvania,2021-06-26,19.25
+Pennsylvania,2021-07-03,19.50
+Pennsylvania,2021-07-10,19.27
 Pennsylvania,2021-07-17,18.43
 Pennsylvania,2021-07-24,18.90
 Pennsylvania,2021-07-31,18.99
@@ -1295,25 +1307,26 @@ Pennsylvania,2021-09-04,21.55
 Pennsylvania,2021-09-11,21.26
 Pennsylvania,2021-09-18,22.42
 Pennsylvania,2021-09-25,22.45
-Pennsylvania,2021-10-02,24.01
+Pennsylvania,2021-10-02,24.02
 Pennsylvania,2021-10-09,23.97
 Pennsylvania,2021-10-16,23.86
 Pennsylvania,2021-10-23,23.39
 Pennsylvania,2021-10-30,24.63
 Pennsylvania,2021-11-06,23.76
-Pennsylvania,2021-11-13,24.94
-Pennsylvania,2021-11-20,24.52
-Pennsylvania,2021-11-27,26.14
-Pennsylvania,2021-12-04,27.77
-Pennsylvania,2021-12-11,27.79
-Pennsylvania,2021-12-18,27.96
-Pennsylvania,2021-12-25,27.28
-Pennsylvania,2022-01-01,27.51
-Pennsylvania,2022-01-08,30.10
-Pennsylvania,2022-01-15,29.86
-Pennsylvania,2022-01-22,28.87
-Pennsylvania,2022-01-29,24.14
-Pennsylvania,2022-02-05,17.65
+Pennsylvania,2021-11-13,24.95
+Pennsylvania,2021-11-20,24.53
+Pennsylvania,2021-11-27,26.16
+Pennsylvania,2021-12-04,27.79
+Pennsylvania,2021-12-11,27.82
+Pennsylvania,2021-12-18,28.00
+Pennsylvania,2021-12-25,27.35
+Pennsylvania,2022-01-01,27.59
+Pennsylvania,2022-01-08,30.34
+Pennsylvania,2022-01-15,30.32
+Pennsylvania,2022-01-22,29.70
+Pennsylvania,2022-01-29,26.77
+Pennsylvania,2022-02-05,22.06
+Pennsylvania,2022-02-12,15.70
 Mississippi,2020-01-04,22.73
 Mississippi,2020-01-11,21.88
 Mississippi,2020-01-18,21.07
@@ -1415,15 +1428,15 @@ Mississippi,2021-11-13,24.25
 Mississippi,2021-11-20,23.33
 Mississippi,2021-11-27,24.14
 Mississippi,2021-12-04,23.54
-Mississippi,2021-12-11,23.71
-Mississippi,2021-12-18,25.23
+Mississippi,2021-12-11,23.67
+Mississippi,2021-12-18,25.29
 Mississippi,2021-12-25,22.86
-Mississippi,2022-01-01,26.68
-Mississippi,2022-01-08,26.37
-Mississippi,2022-01-15,29.14
-Mississippi,2022-01-22,30.83
-Mississippi,2022-01-29,26.88
-Mississippi,2022-02-05,18.40
+Mississippi,2022-01-01,26.71
+Mississippi,2022-01-08,26.54
+Mississippi,2022-01-15,29.51
+Mississippi,2022-01-22,31.47
+Mississippi,2022-01-29,29.11
+Mississippi,2022-02-05,21.31
 Iowa,2020-01-04,20.84
 Iowa,2020-01-11,20.28
 Iowa,2020-01-18,19.43
@@ -1488,7 +1501,7 @@ Iowa,2021-02-27,18.34
 Iowa,2021-03-06,19.37
 Iowa,2021-03-13,17.55
 Iowa,2021-03-20,15.83
-Iowa,2021-03-27,17.68
+Iowa,2021-03-27,17.71
 Iowa,2021-04-03,17.93
 Iowa,2021-04-10,19.62
 Iowa,2021-04-17,17.93
@@ -1506,7 +1519,7 @@ Iowa,2021-07-03,17.05
 Iowa,2021-07-10,17.99
 Iowa,2021-07-17,17.83
 Iowa,2021-07-24,19.15
-Iowa,2021-07-31,17.33
+Iowa,2021-07-31,17.36
 Iowa,2021-08-07,19.03
 Iowa,2021-08-14,17.93
 Iowa,2021-08-21,20.31
@@ -1518,22 +1531,23 @@ Iowa,2021-09-25,22.79
 Iowa,2021-10-02,22.91
 Iowa,2021-10-09,22.60
 Iowa,2021-10-16,20.81
-Iowa,2021-10-23,23.60
+Iowa,2021-10-23,23.63
 Iowa,2021-10-30,23.35
 Iowa,2021-11-06,20.81
 Iowa,2021-11-13,22.29
 Iowa,2021-11-20,24.32
 Iowa,2021-11-27,23.35
-Iowa,2021-12-04,23.48
-Iowa,2021-12-11,25.23
-Iowa,2021-12-18,23.82
-Iowa,2021-12-25,25.01
-Iowa,2022-01-01,24.64
-Iowa,2022-01-08,25.08
-Iowa,2022-01-15,24.76
-Iowa,2022-01-22,21.88
-Iowa,2022-01-29,19.90
-Iowa,2022-02-05,13.57
+Iowa,2021-12-04,23.54
+Iowa,2021-12-11,25.33
+Iowa,2021-12-18,23.92
+Iowa,2021-12-25,25.17
+Iowa,2022-01-01,24.82
+Iowa,2022-01-08,25.39
+Iowa,2022-01-15,25.26
+Iowa,2022-01-22,22.51
+Iowa,2022-01-29,21.75
+Iowa,2022-02-05,18.52
+Iowa,2022-02-12,13.26
 Texas,2020-01-04,14.84
 Texas,2020-01-11,15.66
 Texas,2020-01-18,14.58
@@ -1609,37 +1623,42 @@ Texas,2021-05-15,15.06
 Texas,2021-05-22,14.71
 Texas,2021-05-29,14.70
 Texas,2021-06-05,14.55
-Texas,2021-06-12,14.79
-Texas,2021-06-19,14.96
-Texas,2021-06-26,14.87
+Texas,2021-06-12,14.81
+Texas,2021-06-19,14.97
+Texas,2021-06-26,14.88
 Texas,2021-07-03,14.97
 Texas,2021-07-10,14.62
 Texas,2021-07-17,15.24
 Texas,2021-07-24,15.25
 Texas,2021-07-31,16.47
-Texas,2021-08-07,17.55
-Texas,2021-08-14,19.53
+Texas,2021-08-07,17.56
+Texas,2021-08-14,19.54
 Texas,2021-08-21,21.72
-Texas,2021-08-28,22.62
-Texas,2021-09-04,23.01
-Texas,2021-09-11,22.55
-Texas,2021-09-18,21.49
-Texas,2021-09-25,21.24
-Texas,2021-10-02,20.16
-Texas,2021-10-09,18.80
-Texas,2021-10-16,18.03
-Texas,2021-10-23,17.32
-Texas,2021-10-30,16.66
-Texas,2021-11-06,16.35
-Texas,2021-11-13,16.31
-Texas,2021-11-20,16.18
-Texas,2021-11-27,15.93
-Texas,2021-12-04,16.49
-Texas,2021-12-11,16.44
-Texas,2021-12-18,15.77
-Texas,2021-12-25,15.89
-Texas,2022-01-01,15.37
-Texas,2022-01-08,11.44
+Texas,2021-08-28,22.64
+Texas,2021-09-04,23.02
+Texas,2021-09-11,22.56
+Texas,2021-09-18,21.50
+Texas,2021-09-25,21.26
+Texas,2021-10-02,20.17
+Texas,2021-10-09,18.81
+Texas,2021-10-16,18.06
+Texas,2021-10-23,17.34
+Texas,2021-10-30,16.70
+Texas,2021-11-06,16.38
+Texas,2021-11-13,16.36
+Texas,2021-11-20,16.24
+Texas,2021-11-27,16.02
+Texas,2021-12-04,16.61
+Texas,2021-12-11,16.60
+Texas,2021-12-18,15.97
+Texas,2021-12-25,16.32
+Texas,2022-01-01,16.33
+Texas,2022-01-08,16.34
+Texas,2022-01-15,15.72
+Texas,2022-01-22,15.49
+Texas,2022-01-29,15.35
+Texas,2022-02-05,13.48
+Texas,2022-02-12,9.55
 Illinois,2020-01-04,17.10
 Illinois,2020-01-11,17.58
 Illinois,2020-01-18,17.41
@@ -1724,32 +1743,33 @@ Illinois,2021-07-17,16.48
 Illinois,2021-07-24,16.27
 Illinois,2021-07-31,16.21
 Illinois,2021-08-07,16.51
-Illinois,2021-08-14,17.00
-Illinois,2021-08-21,17.69
+Illinois,2021-08-14,16.99
+Illinois,2021-08-21,17.70
 Illinois,2021-08-28,17.92
 Illinois,2021-09-04,18.45
 Illinois,2021-09-11,18.60
 Illinois,2021-09-18,17.87
 Illinois,2021-09-25,18.14
-Illinois,2021-10-02,18.47
+Illinois,2021-10-02,18.48
 Illinois,2021-10-09,18.23
 Illinois,2021-10-16,17.05
-Illinois,2021-10-23,18.84
-Illinois,2021-10-30,18.21
+Illinois,2021-10-23,18.85
+Illinois,2021-10-30,18.22
 Illinois,2021-11-06,18.59
 Illinois,2021-11-13,18.76
 Illinois,2021-11-20,18.65
 Illinois,2021-11-27,19.70
-Illinois,2021-12-04,19.89
-Illinois,2021-12-11,20.78
-Illinois,2021-12-18,20.75
-Illinois,2021-12-25,21.83
-Illinois,2022-01-01,22.94
-Illinois,2022-01-08,25.82
-Illinois,2022-01-15,26.06
-Illinois,2022-01-22,24.45
-Illinois,2022-01-29,20.39
-Illinois,2022-02-05,14.25
+Illinois,2021-12-04,19.93
+Illinois,2021-12-11,20.82
+Illinois,2021-12-18,20.78
+Illinois,2021-12-25,21.94
+Illinois,2022-01-01,23.11
+Illinois,2022-01-08,26.13
+Illinois,2022-01-15,26.40
+Illinois,2022-01-22,24.96
+Illinois,2022-01-29,22.07
+Illinois,2022-02-05,17.82
+Illinois,2022-02-12,14.92
 Connecticut,2020-01-04,17.55
 Connecticut,2020-01-11,17.50
 Connecticut,2020-01-18,17.72
@@ -1803,7 +1823,7 @@ Connecticut,2020-12-12,23.46
 Connecticut,2020-12-19,24.15
 Connecticut,2020-12-26,25.51
 Connecticut,2021-01-02,25.35
-Connecticut,2021-01-09,23.63
+Connecticut,2021-01-09,23.60
 Connecticut,2021-01-16,23.96
 Connecticut,2021-01-23,23.74
 Connecticut,2021-01-30,22.80
@@ -1817,7 +1837,7 @@ Connecticut,2021-03-20,17.75
 Connecticut,2021-03-27,18.33
 Connecticut,2021-04-03,16.89
 Connecticut,2021-04-10,15.95
-Connecticut,2021-04-17,16.78
+Connecticut,2021-04-17,16.81
 Connecticut,2021-04-24,16.78
 Connecticut,2021-05-01,17.39
 Connecticut,2021-05-08,17.28
@@ -1825,9 +1845,9 @@ Connecticut,2021-05-15,15.67
 Connecticut,2021-05-22,16.39
 Connecticut,2021-05-29,17.17
 Connecticut,2021-06-05,15.36
-Connecticut,2021-06-12,16.11
+Connecticut,2021-06-12,16.14
 Connecticut,2021-06-19,15.86
-Connecticut,2021-06-26,16.28
+Connecticut,2021-06-26,16.31
 Connecticut,2021-07-03,16.58
 Connecticut,2021-07-10,16.92
 Connecticut,2021-07-17,16.08
@@ -1836,29 +1856,30 @@ Connecticut,2021-07-31,15.75
 Connecticut,2021-08-07,16.94
 Connecticut,2021-08-14,17.91
 Connecticut,2021-08-21,17.36
-Connecticut,2021-08-28,17.25
+Connecticut,2021-08-28,17.28
 Connecticut,2021-09-04,17.19
 Connecticut,2021-09-11,17.72
 Connecticut,2021-09-18,18.89
-Connecticut,2021-09-25,18.52
+Connecticut,2021-09-25,18.55
 Connecticut,2021-10-02,17.42
-Connecticut,2021-10-09,17.06
-Connecticut,2021-10-16,17.19
-Connecticut,2021-10-23,18.58
+Connecticut,2021-10-09,17.11
+Connecticut,2021-10-16,17.22
+Connecticut,2021-10-23,18.61
 Connecticut,2021-10-30,18.14
 Connecticut,2021-11-06,18.58
 Connecticut,2021-11-13,18.69
 Connecticut,2021-11-20,18.14
-Connecticut,2021-11-27,18.80
-Connecticut,2021-12-04,19.88
-Connecticut,2021-12-11,19.52
-Connecticut,2021-12-18,18.14
-Connecticut,2021-12-25,19.55
-Connecticut,2022-01-01,20.30
-Connecticut,2022-01-08,21.58
-Connecticut,2022-01-15,21.52
-Connecticut,2022-01-22,21.52
-Connecticut,2022-01-29,10.45
+Connecticut,2021-11-27,18.86
+Connecticut,2021-12-04,20.05
+Connecticut,2021-12-11,19.63
+Connecticut,2021-12-18,18.41
+Connecticut,2021-12-25,19.77
+Connecticut,2022-01-01,20.85
+Connecticut,2022-01-08,23.49
+Connecticut,2022-01-15,22.44
+Connecticut,2022-01-22,22.44
+Connecticut,2022-01-29,16.75
+Connecticut,2022-02-05,11.87
 Georgia,2020-01-04,16.83
 Georgia,2020-01-11,16.87
 Georgia,2020-01-18,16.30
@@ -1913,61 +1934,63 @@ Georgia,2020-12-19,22.61
 Georgia,2020-12-26,22.21
 Georgia,2021-01-02,25.44
 Georgia,2021-01-09,26.78
-Georgia,2021-01-16,28.88
+Georgia,2021-01-16,28.89
 Georgia,2021-01-23,27.56
 Georgia,2021-01-30,25.79
 Georgia,2021-02-06,25.34
-Georgia,2021-02-13,22.23
-Georgia,2021-02-20,21.29
+Georgia,2021-02-13,22.24
+Georgia,2021-02-20,21.30
 Georgia,2021-02-27,19.64
 Georgia,2021-03-06,18.10
 Georgia,2021-03-13,18.58
 Georgia,2021-03-20,17.90
 Georgia,2021-03-27,17.58
-Georgia,2021-04-03,16.37
+Georgia,2021-04-03,16.38
 Georgia,2021-04-10,18.17
-Georgia,2021-04-17,17.50
+Georgia,2021-04-17,17.51
 Georgia,2021-04-24,17.61
 Georgia,2021-05-01,17.00
 Georgia,2021-05-08,16.94
-Georgia,2021-05-15,16.60
-Georgia,2021-05-22,17.55
+Georgia,2021-05-15,16.62
+Georgia,2021-05-22,17.56
 Georgia,2021-05-29,17.48
 Georgia,2021-06-05,16.40
 Georgia,2021-06-12,16.46
-Georgia,2021-06-19,16.00
-Georgia,2021-06-26,16.37
+Georgia,2021-06-19,16.01
+Georgia,2021-06-26,16.38
 Georgia,2021-07-03,16.36
-Georgia,2021-07-10,16.36
-Georgia,2021-07-17,16.15
-Georgia,2021-07-24,16.78
-Georgia,2021-07-31,18.03
-Georgia,2021-08-07,19.05
-Georgia,2021-08-14,21.71
-Georgia,2021-08-21,23.60
-Georgia,2021-08-28,26.24
-Georgia,2021-09-04,27.11
-Georgia,2021-09-11,27.55
-Georgia,2021-09-18,26.10
-Georgia,2021-09-25,25.14
-Georgia,2021-10-02,22.33
-Georgia,2021-10-09,20.28
-Georgia,2021-10-16,19.68
-Georgia,2021-10-23,19.31
-Georgia,2021-10-30,18.75
-Georgia,2021-11-06,18.03
-Georgia,2021-11-13,19.17
-Georgia,2021-11-20,17.68
-Georgia,2021-11-27,17.16
-Georgia,2021-12-04,17.73
-Georgia,2021-12-11,18.19
-Georgia,2021-12-18,17.07
-Georgia,2021-12-25,17.83
-Georgia,2022-01-01,18.27
-Georgia,2022-01-08,19.14
-Georgia,2022-01-15,20.34
-Georgia,2022-01-22,19.10
-Georgia,2022-01-29,14.64
+Georgia,2021-07-10,16.37
+Georgia,2021-07-17,16.16
+Georgia,2021-07-24,16.79
+Georgia,2021-07-31,18.04
+Georgia,2021-08-07,19.06
+Georgia,2021-08-14,21.72
+Georgia,2021-08-21,23.62
+Georgia,2021-08-28,26.25
+Georgia,2021-09-04,27.14
+Georgia,2021-09-11,27.56
+Georgia,2021-09-18,26.11
+Georgia,2021-09-25,25.20
+Georgia,2021-10-02,22.38
+Georgia,2021-10-09,20.34
+Georgia,2021-10-16,19.74
+Georgia,2021-10-23,19.35
+Georgia,2021-10-30,18.81
+Georgia,2021-11-06,18.12
+Georgia,2021-11-13,19.27
+Georgia,2021-11-20,17.77
+Georgia,2021-11-27,17.36
+Georgia,2021-12-04,17.87
+Georgia,2021-12-11,18.39
+Georgia,2021-12-18,17.38
+Georgia,2021-12-25,18.12
+Georgia,2022-01-01,18.80
+Georgia,2022-01-08,19.81
+Georgia,2022-01-15,21.77
+Georgia,2022-01-22,21.28
+Georgia,2022-01-29,18.49
+Georgia,2022-02-05,13.33
+Georgia,2022-02-12,8.94
 Virginia,2020-01-04,16.66
 Virginia,2020-01-11,18.10
 Virginia,2020-01-18,16.98
@@ -2056,28 +2079,29 @@ Virginia,2021-08-14,18.14
 Virginia,2021-08-21,18.56
 Virginia,2021-08-28,18.56
 Virginia,2021-09-04,19.48
-Virginia,2021-09-11,19.04
+Virginia,2021-09-11,19.06
 Virginia,2021-09-18,20.41
-Virginia,2021-09-25,19.96
-Virginia,2021-10-02,20.22
+Virginia,2021-09-25,19.97
+Virginia,2021-10-02,20.23
 Virginia,2021-10-09,18.86
 Virginia,2021-10-16,17.99
 Virginia,2021-10-23,19.43
 Virginia,2021-10-30,19.64
 Virginia,2021-11-06,19.86
-Virginia,2021-11-13,20.14
-Virginia,2021-11-20,18.53
-Virginia,2021-11-27,18.87
+Virginia,2021-11-13,20.15
+Virginia,2021-11-20,18.55
+Virginia,2021-11-27,18.90
 Virginia,2021-12-04,20.12
-Virginia,2021-12-11,20.34
-Virginia,2021-12-18,20.02
-Virginia,2021-12-25,19.89
-Virginia,2022-01-01,20.70
-Virginia,2022-01-08,22.81
-Virginia,2022-01-15,24.21
-Virginia,2022-01-22,23.69
-Virginia,2022-01-29,20.11
-Virginia,2022-02-05,13.52
+Virginia,2021-12-11,20.38
+Virginia,2021-12-18,20.10
+Virginia,2021-12-25,19.95
+Virginia,2022-01-01,20.76
+Virginia,2022-01-08,22.97
+Virginia,2022-01-15,24.50
+Virginia,2022-01-22,24.26
+Virginia,2022-01-29,22.59
+Virginia,2022-02-05,17.19
+Virginia,2022-02-12,10.84
 Maryland,2020-01-04,16.98
 Maryland,2020-01-11,16.76
 Maryland,2020-01-18,15.99
@@ -2153,41 +2177,42 @@ Maryland,2021-05-15,17.05
 Maryland,2021-05-22,16.42
 Maryland,2021-05-29,16.69
 Maryland,2021-06-05,16.58
-Maryland,2021-06-12,14.57
+Maryland,2021-06-12,14.59
 Maryland,2021-06-19,15.38
 Maryland,2021-06-26,14.88
 Maryland,2021-07-03,15.86
 Maryland,2021-07-10,14.31
 Maryland,2021-07-17,15.22
 Maryland,2021-07-24,15.07
-Maryland,2021-07-31,15.48
+Maryland,2021-07-31,15.49
 Maryland,2021-08-07,15.41
 Maryland,2021-08-14,15.74
 Maryland,2021-08-21,15.30
 Maryland,2021-08-28,16.12
-Maryland,2021-09-04,18.00
+Maryland,2021-09-04,18.02
 Maryland,2021-09-11,17.27
 Maryland,2021-09-18,18.31
 Maryland,2021-09-25,17.97
 Maryland,2021-10-02,17.99
 Maryland,2021-10-09,18.88
-Maryland,2021-10-16,17.68
-Maryland,2021-10-23,18.29
+Maryland,2021-10-16,17.69
+Maryland,2021-10-23,18.31
 Maryland,2021-10-30,17.37
-Maryland,2021-11-06,17.42
+Maryland,2021-11-06,17.45
 Maryland,2021-11-13,17.84
-Maryland,2021-11-20,17.31
-Maryland,2021-11-27,17.22
-Maryland,2021-12-04,17.48
-Maryland,2021-12-11,18.78
-Maryland,2021-12-18,19.01
-Maryland,2021-12-25,20.49
-Maryland,2022-01-01,20.46
-Maryland,2022-01-08,22.05
-Maryland,2022-01-15,24.70
-Maryland,2022-01-22,22.81
-Maryland,2022-01-29,16.67
-Maryland,2022-02-05,10.75
+Maryland,2021-11-20,17.32
+Maryland,2021-11-27,17.27
+Maryland,2021-12-04,17.55
+Maryland,2021-12-11,18.89
+Maryland,2021-12-18,19.12
+Maryland,2021-12-25,20.59
+Maryland,2022-01-01,20.79
+Maryland,2022-01-08,22.26
+Maryland,2022-01-15,25.21
+Maryland,2022-01-22,23.98
+Maryland,2022-01-29,19.44
+Maryland,2022-02-05,14.44
+Maryland,2022-02-12,10.05
 Idaho,2020-01-04,15.12
 Idaho,2020-01-11,15.88
 Idaho,2020-01-18,15.93
@@ -2264,7 +2289,7 @@ Idaho,2021-05-22,17.73
 Idaho,2021-05-29,17.51
 Idaho,2021-06-05,15.88
 Idaho,2021-06-12,17.62
-Idaho,2021-06-19,17.13
+Idaho,2021-06-19,17.18
 Idaho,2021-06-26,15.99
 Idaho,2021-07-03,17.02
 Idaho,2021-07-10,15.77
@@ -2281,23 +2306,24 @@ Idaho,2021-09-18,25.39
 Idaho,2021-09-25,28.00
 Idaho,2021-10-02,27.62
 Idaho,2021-10-09,27.08
-Idaho,2021-10-16,25.94
-Idaho,2021-10-23,25.45
-Idaho,2021-10-30,24.03
+Idaho,2021-10-16,25.99
+Idaho,2021-10-23,25.50
+Idaho,2021-10-30,24.09
 Idaho,2021-11-06,23.33
-Idaho,2021-11-13,22.51
+Idaho,2021-11-13,22.62
 Idaho,2021-11-20,21.86
-Idaho,2021-11-27,20.66
+Idaho,2021-11-27,20.72
 Idaho,2021-12-04,18.92
 Idaho,2021-12-11,20.01
-Idaho,2021-12-18,19.57
-Idaho,2021-12-25,21.48
-Idaho,2022-01-01,18.65
-Idaho,2022-01-08,20.61
-Idaho,2022-01-15,21.86
-Idaho,2022-01-22,18.38
-Idaho,2022-01-29,18.27
-Idaho,2022-02-05,11.53
+Idaho,2021-12-18,19.63
+Idaho,2021-12-25,21.64
+Idaho,2022-01-01,18.76
+Idaho,2022-01-08,20.72
+Idaho,2022-01-15,22.29
+Idaho,2022-01-22,18.92
+Idaho,2022-01-29,21.10
+Idaho,2022-02-05,17.45
+Idaho,2022-02-12,11.58
 Vermont,2020-01-04,14.93
 Vermont,2020-01-11,16.02
 Vermont,2020-01-18,20.06
@@ -2351,63 +2377,64 @@ Vermont,2020-12-12,18.19
 Vermont,2020-12-19,20.22
 Vermont,2020-12-26,23.64
 Vermont,2021-01-02,21.77
-Vermont,2021-01-09,16.79
+Vermont,2021-01-09,20.06
 Vermont,2021-01-16,19.90
 Vermont,2021-01-23,19.28
-Vermont,2021-01-30,20.99
+Vermont,2021-01-30,17.73
 Vermont,2021-02-06,21.30
-Vermont,2021-02-13,17.57
+Vermont,2021-02-13,19.75
 Vermont,2021-02-20,23.79
 Vermont,2021-02-27,23.95
-Vermont,2021-03-06,18.97
+Vermont,2021-03-06,16.79
 Vermont,2021-03-13,20.06
-Vermont,2021-03-20,19.90
+Vermont,2021-03-20,16.17
 Vermont,2021-03-27,15.39
-Vermont,2021-04-03,15.86
+Vermont,2021-04-03,19.59
 Vermont,2021-04-10,16.33
-Vermont,2021-04-17,20.84
+Vermont,2021-04-17,16.95
 Vermont,2021-04-24,17.57
-Vermont,2021-05-01,21.15
-Vermont,2021-05-08,18.35
-Vermont,2021-05-15,19.75
+Vermont,2021-05-01,25.04
+Vermont,2021-05-08,16.02
+Vermont,2021-05-15,22.08
 Vermont,2021-05-22,17.11
 Vermont,2021-05-29,15.08
 Vermont,2021-06-05,13.22
 Vermont,2021-06-12,14.62
-Vermont,2021-06-19,17.57
-Vermont,2021-06-26,20.06
+Vermont,2021-06-19,20.53
+Vermont,2021-06-26,17.11
 Vermont,2021-07-03,17.73
-Vermont,2021-07-10,24.10
+Vermont,2021-07-10,18.50
 Vermont,2021-07-17,16.02
 Vermont,2021-07-24,17.11
-Vermont,2021-07-31,17.57
+Vermont,2021-07-31,23.17
 Vermont,2021-08-07,21.77
-Vermont,2021-08-14,16.48
-Vermont,2021-08-21,21.61
+Vermont,2021-08-14,19.59
+Vermont,2021-08-21,18.50
 Vermont,2021-08-28,17.88
 Vermont,2021-09-04,18.66
-Vermont,2021-09-11,21.61
-Vermont,2021-09-18,24.10
+Vermont,2021-09-11,18.82
+Vermont,2021-09-18,26.90
 Vermont,2021-09-25,23.33
 Vermont,2021-10-02,21.93
 Vermont,2021-10-09,16.95
-Vermont,2021-10-16,20.06
-Vermont,2021-10-23,26.44
+Vermont,2021-10-16,23.79
+Vermont,2021-10-23,22.70
 Vermont,2021-10-30,23.17
 Vermont,2021-11-06,21.93
 Vermont,2021-11-13,19.90
 Vermont,2021-11-20,24.88
 Vermont,2021-11-27,21.61
 Vermont,2021-12-04,21.46
-Vermont,2021-12-11,20.99
-Vermont,2021-12-18,24.10
+Vermont,2021-12-11,23.79
+Vermont,2021-12-18,24.26
 Vermont,2021-12-25,17.57
-Vermont,2022-01-01,26.28
+Vermont,2022-01-01,23.48
 Vermont,2022-01-08,17.88
 Vermont,2022-01-15,22.86
-Vermont,2022-01-22,25.66
-Vermont,2022-01-29,18.19
-Vermont,2022-02-05,15.55
+Vermont,2022-01-22,26.44
+Vermont,2022-01-29,23.01
+Vermont,2022-02-05,21.93
+Vermont,2022-02-12,11.97
 Oregon,2020-01-04,17.39
 Oregon,2020-01-11,18.03
 Oregon,2020-01-18,18.15
@@ -2463,7 +2490,7 @@ Oregon,2020-12-26,20.72
 Oregon,2021-01-02,21.33
 Oregon,2021-01-09,20.89
 Oregon,2021-01-16,20.98
-Oregon,2021-01-23,20.20
+Oregon,2021-01-23,20.18
 Oregon,2021-01-30,19.73
 Oregon,2021-02-06,19.73
 Oregon,2021-02-13,18.67
@@ -2489,34 +2516,35 @@ Oregon,2021-06-26,18.10
 Oregon,2021-07-03,22.21
 Oregon,2021-07-10,18.60
 Oregon,2021-07-17,18.62
-Oregon,2021-07-24,19.09
+Oregon,2021-07-24,19.14
 Oregon,2021-07-31,19.40
 Oregon,2021-08-07,18.95
 Oregon,2021-08-14,20.60
 Oregon,2021-08-21,22.25
 Oregon,2021-08-28,23.13
-Oregon,2021-09-04,25.09
-Oregon,2021-09-11,23.77
+Oregon,2021-09-04,25.11
+Oregon,2021-09-11,23.81
 Oregon,2021-09-18,23.46
-Oregon,2021-09-25,24.00
+Oregon,2021-09-25,24.02
 Oregon,2021-10-02,22.37
-Oregon,2021-10-09,23.01
-Oregon,2021-10-16,22.68
-Oregon,2021-10-23,22.54
-Oregon,2021-10-30,21.71
-Oregon,2021-11-06,20.56
-Oregon,2021-11-13,20.60
-Oregon,2021-11-20,20.84
-Oregon,2021-11-27,20.32
-Oregon,2021-12-04,20.15
-Oregon,2021-12-11,22.18
-Oregon,2021-12-18,21.12
-Oregon,2021-12-25,20.32
-Oregon,2022-01-01,20.82
-Oregon,2022-01-08,19.82
-Oregon,2022-01-15,20.84
-Oregon,2022-01-22,17.18
-Oregon,2022-01-29,13.83
+Oregon,2021-10-09,23.06
+Oregon,2021-10-16,22.73
+Oregon,2021-10-23,22.56
+Oregon,2021-10-30,21.76
+Oregon,2021-11-06,20.58
+Oregon,2021-11-13,20.65
+Oregon,2021-11-20,20.86
+Oregon,2021-11-27,20.39
+Oregon,2021-12-04,20.23
+Oregon,2021-12-11,22.42
+Oregon,2021-12-18,21.33
+Oregon,2021-12-25,20.48
+Oregon,2022-01-01,21.29
+Oregon,2022-01-08,20.39
+Oregon,2022-01-15,22.14
+Oregon,2022-01-22,19.82
+Oregon,2022-01-29,19.00
+Oregon,2022-02-05,14.96
 Puerto Rico,2020-01-04,16.89
 Puerto Rico,2020-01-11,18.08
 Puerto Rico,2020-01-18,20.18
@@ -2608,20 +2636,20 @@ Puerto Rico,2021-09-04,21.27
 Puerto Rico,2021-09-11,21.52
 Puerto Rico,2021-09-18,20.06
 Puerto Rico,2021-09-25,19.72
-Puerto Rico,2021-10-02,18.08
+Puerto Rico,2021-10-02,18.11
 Puerto Rico,2021-10-09,17.29
 Puerto Rico,2021-10-16,18.78
 Puerto Rico,2021-10-23,18.17
-Puerto Rico,2021-10-30,18.78
+Puerto Rico,2021-10-30,18.81
 Puerto Rico,2021-11-06,18.99
 Puerto Rico,2021-11-13,18.59
-Puerto Rico,2021-11-20,18.75
-Puerto Rico,2021-11-27,17.32
+Puerto Rico,2021-11-20,18.81
+Puerto Rico,2021-11-27,17.38
 Puerto Rico,2021-12-04,18.14
-Puerto Rico,2021-12-11,18.56
-Puerto Rico,2021-12-18,18.81
-Puerto Rico,2021-12-25,18.75
-Puerto Rico,2022-01-01,17.44
+Puerto Rico,2021-12-11,18.66
+Puerto Rico,2021-12-18,18.96
+Puerto Rico,2021-12-25,18.93
+Puerto Rico,2022-01-01,17.59
 United States,2020-01-04,18.16
 United States,2020-01-11,18.32
 United States,2020-01-18,17.91
@@ -2675,63 +2703,64 @@ United States,2020-12-12,24.74
 United States,2020-12-19,25.02
 United States,2020-12-26,25.46
 United States,2021-01-02,26.25
-United States,2021-01-09,26.27
+United States,2021-01-09,26.28
 United States,2021-01-16,26.37
 United States,2021-01-23,25.25
 United States,2021-01-30,23.90
 United States,2021-02-06,23.08
-United States,2021-02-13,21.57
+United States,2021-02-13,21.58
 United States,2021-02-20,20.97
 United States,2021-02-27,20.13
-United States,2021-03-06,19.22
+United States,2021-03-06,19.21
 United States,2021-03-13,18.66
-United States,2021-03-20,18.22
+United States,2021-03-20,18.21
 United States,2021-03-27,18.34
-United States,2021-04-03,17.70
+United States,2021-04-03,17.71
 United States,2021-04-10,18.40
-United States,2021-04-17,17.85
+United States,2021-04-17,17.84
 United States,2021-04-24,18.17
-United States,2021-05-01,18.04
-United States,2021-05-08,17.80
-United States,2021-05-15,17.63
+United States,2021-05-01,18.05
+United States,2021-05-08,17.79
+United States,2021-05-15,17.64
 United States,2021-05-22,17.71
-United States,2021-05-29,17.28
-United States,2021-06-05,17.31
-United States,2021-06-12,17.16
-United States,2021-06-19,17.25
+United States,2021-05-29,17.29
+United States,2021-06-05,17.32
+United States,2021-06-12,17.17
+United States,2021-06-19,17.26
 United States,2021-06-26,17.15
-United States,2021-07-03,17.32
-United States,2021-07-10,17.24
-United States,2021-07-17,17.22
-United States,2021-07-24,17.59
-United States,2021-07-31,18.15
-United States,2021-08-07,19.06
-United States,2021-08-14,20.03
-United States,2021-08-21,20.93
-United States,2021-08-28,21.57
-United States,2021-09-04,21.95
+United States,2021-07-03,17.33
+United States,2021-07-10,17.23
+United States,2021-07-17,17.23
+United States,2021-07-24,17.60
+United States,2021-07-31,18.17
+United States,2021-08-07,19.16
+United States,2021-08-14,20.12
+United States,2021-08-21,21.00
+United States,2021-08-28,21.66
+United States,2021-09-04,21.99
 United States,2021-09-11,22.01
-United States,2021-09-18,21.90
-United States,2021-09-25,21.53
-United States,2021-10-02,21.25
-United States,2021-10-09,20.58
-United States,2021-10-16,20.08
-United States,2021-10-23,19.96
-United States,2021-10-30,19.78
-United States,2021-11-06,19.62
-United States,2021-11-13,19.85
-United States,2021-11-20,19.68
-United States,2021-11-27,19.90
-United States,2021-12-04,20.41
-United States,2021-12-11,20.82
-United States,2021-12-18,20.44
-United States,2021-12-25,20.52
-United States,2022-01-01,20.83
-United States,2022-01-08,21.36
-United States,2022-01-15,21.04
-United States,2022-01-22,19.65
-United States,2022-01-29,16.20
-United States,2022-02-05,10.96
+United States,2021-09-18,21.91
+United States,2021-09-25,21.55
+United States,2021-10-02,21.26
+United States,2021-10-09,20.59
+United States,2021-10-16,20.11
+United States,2021-10-23,19.97
+United States,2021-10-30,19.81
+United States,2021-11-06,19.67
+United States,2021-11-13,19.91
+United States,2021-11-20,19.77
+United States,2021-11-27,20.00
+United States,2021-12-04,20.59
+United States,2021-12-11,21.02
+United States,2021-12-18,20.68
+United States,2021-12-25,20.78
+United States,2022-01-01,21.18
+United States,2022-01-08,22.21
+United States,2022-01-15,22.76
+United States,2022-01-22,22.30
+United States,2022-01-29,20.44
+United States,2022-02-05,16.49
+United States,2022-02-12,11.13
 Tennessee,2020-01-04,23.35
 Tennessee,2020-01-11,24.41
 Tennessee,2020-01-18,23.11
@@ -2815,33 +2844,34 @@ Tennessee,2021-07-10,20.97
 Tennessee,2021-07-17,21.81
 Tennessee,2021-07-24,22.52
 Tennessee,2021-07-31,23.15
-Tennessee,2021-08-07,24.73
+Tennessee,2021-08-07,24.74
 Tennessee,2021-08-14,26.38
 Tennessee,2021-08-21,28.36
 Tennessee,2021-08-28,30.78
-Tennessee,2021-09-04,33.24
-Tennessee,2021-09-11,34.31
-Tennessee,2021-09-18,34.67
+Tennessee,2021-09-04,33.25
+Tennessee,2021-09-11,34.32
+Tennessee,2021-09-18,34.68
 Tennessee,2021-09-25,34.38
 Tennessee,2021-10-02,31.34
-Tennessee,2021-10-09,30.18
-Tennessee,2021-10-16,26.71
+Tennessee,2021-10-09,30.20
+Tennessee,2021-10-16,26.73
 Tennessee,2021-10-23,26.74
-Tennessee,2021-10-30,25.41
-Tennessee,2021-11-06,24.87
-Tennessee,2021-11-13,25.96
-Tennessee,2021-11-20,25.53
-Tennessee,2021-11-27,25.21
-Tennessee,2021-12-04,26.99
-Tennessee,2021-12-11,27.80
-Tennessee,2021-12-18,26.42
-Tennessee,2021-12-25,26.23
-Tennessee,2022-01-01,26.86
-Tennessee,2022-01-08,28.91
-Tennessee,2022-01-15,29.45
-Tennessee,2022-01-22,27.17
-Tennessee,2022-01-29,26.10
-Tennessee,2022-02-05,17.78
+Tennessee,2021-10-30,25.44
+Tennessee,2021-11-06,24.90
+Tennessee,2021-11-13,25.97
+Tennessee,2021-11-20,25.58
+Tennessee,2021-11-27,25.31
+Tennessee,2021-12-04,27.06
+Tennessee,2021-12-11,27.83
+Tennessee,2021-12-18,26.57
+Tennessee,2021-12-25,26.41
+Tennessee,2022-01-01,27.15
+Tennessee,2022-01-08,29.40
+Tennessee,2022-01-15,30.60
+Tennessee,2022-01-22,29.36
+Tennessee,2022-01-29,30.91
+Tennessee,2022-02-05,26.25
+Tennessee,2022-02-12,19.78
 Oklahoma,2020-01-04,22.76
 Oklahoma,2020-01-11,20.79
 Oklahoma,2020-01-18,21.47
@@ -2895,7 +2925,7 @@ Oklahoma,2020-12-12,30.61
 Oklahoma,2020-12-19,32.35
 Oklahoma,2020-12-26,32.13
 Oklahoma,2021-01-02,33.77
-Oklahoma,2021-01-09,31.80
+Oklahoma,2021-01-09,31.77
 Oklahoma,2021-01-16,32.99
 Oklahoma,2021-01-23,33.06
 Oklahoma,2021-01-30,29.63
@@ -2918,40 +2948,41 @@ Oklahoma,2021-05-22,19.85
 Oklahoma,2021-05-29,18.94
 Oklahoma,2021-06-05,19.12
 Oklahoma,2021-06-12,21.06
-Oklahoma,2021-06-19,20.96
+Oklahoma,2021-06-19,20.91
 Oklahoma,2021-06-26,19.75
 Oklahoma,2021-07-03,20.36
 Oklahoma,2021-07-10,20.71
 Oklahoma,2021-07-17,19.70
 Oklahoma,2021-07-24,21.27
-Oklahoma,2021-07-31,23.61
+Oklahoma,2021-07-31,23.64
 Oklahoma,2021-08-07,23.77
 Oklahoma,2021-08-14,25.66
 Oklahoma,2021-08-21,28.54
 Oklahoma,2021-08-28,28.16
 Oklahoma,2021-09-04,28.49
 Oklahoma,2021-09-11,28.57
-Oklahoma,2021-09-18,27.71
-Oklahoma,2021-09-25,27.71
-Oklahoma,2021-10-02,26.57
-Oklahoma,2021-10-09,24.32
-Oklahoma,2021-10-16,24.12
-Oklahoma,2021-10-23,23.08
+Oklahoma,2021-09-18,27.73
+Oklahoma,2021-09-25,27.78
+Oklahoma,2021-10-02,26.60
+Oklahoma,2021-10-09,24.35
+Oklahoma,2021-10-16,24.15
+Oklahoma,2021-10-23,23.11
 Oklahoma,2021-10-30,23.03
-Oklahoma,2021-11-06,22.73
-Oklahoma,2021-11-13,21.54
-Oklahoma,2021-11-20,22.66
-Oklahoma,2021-11-27,21.47
-Oklahoma,2021-12-04,23.36
-Oklahoma,2021-12-11,24.98
-Oklahoma,2021-12-18,24.45
-Oklahoma,2021-12-25,24.09
-Oklahoma,2022-01-01,24.37
-Oklahoma,2022-01-08,25.58
-Oklahoma,2022-01-15,27.02
-Oklahoma,2022-01-22,25.11
-Oklahoma,2022-01-29,23.24
-Oklahoma,2022-02-05,13.36
+Oklahoma,2021-11-06,22.76
+Oklahoma,2021-11-13,21.59
+Oklahoma,2021-11-20,22.73
+Oklahoma,2021-11-27,21.52
+Oklahoma,2021-12-04,23.61
+Oklahoma,2021-12-11,25.13
+Oklahoma,2021-12-18,24.70
+Oklahoma,2021-12-25,24.37
+Oklahoma,2022-01-01,24.73
+Oklahoma,2022-01-08,26.27
+Oklahoma,2022-01-15,28.62
+Oklahoma,2022-01-22,27.88
+Oklahoma,2022-01-29,27.40
+Oklahoma,2022-02-05,19.85
+Oklahoma,2022-02-12,12.98
 Maine,2020-01-04,23.49
 Maine,2020-01-11,23.34
 Maine,2020-01-18,21.65
@@ -3059,9 +3090,10 @@ Maine,2021-12-25,29.43
 Maine,2022-01-01,29.21
 Maine,2022-01-08,28.11
 Maine,2022-01-15,25.91
-Maine,2022-01-22,30.61
-Maine,2022-01-29,27.89
-Maine,2022-02-05,22.31
+Maine,2022-01-22,30.83
+Maine,2022-01-29,28.99
+Maine,2022-02-05,26.94
+Maine,2022-02-12,21.21
 Alabama,2020-01-04,21.54
 Alabama,2020-01-11,22.43
 Alabama,2020-01-18,20.68
@@ -3117,61 +3149,62 @@ Alabama,2020-12-26,32.36
 Alabama,2021-01-02,35.91
 Alabama,2021-01-09,36.01
 Alabama,2021-01-16,36.46
-Alabama,2021-01-23,35.63
+Alabama,2021-01-23,35.65
 Alabama,2021-01-30,32.58
 Alabama,2021-02-06,30.01
 Alabama,2021-02-13,28.48
 Alabama,2021-02-20,26.51
 Alabama,2021-02-27,26.15
-Alabama,2021-03-06,23.07
+Alabama,2021-03-06,23.09
 Alabama,2021-03-13,23.67
 Alabama,2021-03-20,21.08
 Alabama,2021-03-27,23.67
-Alabama,2021-04-03,21.97
-Alabama,2021-04-10,24.04
-Alabama,2021-04-17,23.25
+Alabama,2021-04-03,21.99
+Alabama,2021-04-10,24.06
+Alabama,2021-04-17,23.27
 Alabama,2021-04-24,21.99
 Alabama,2021-05-01,23.72
 Alabama,2021-05-08,22.93
 Alabama,2021-05-15,21.79
-Alabama,2021-05-22,21.75
+Alabama,2021-05-22,21.77
 Alabama,2021-05-29,21.46
-Alabama,2021-06-05,21.56
+Alabama,2021-06-05,21.58
 Alabama,2021-06-12,22.03
-Alabama,2021-06-19,22.49
+Alabama,2021-06-19,22.51
 Alabama,2021-06-26,21.38
 Alabama,2021-07-03,21.10
 Alabama,2021-07-10,22.53
 Alabama,2021-07-17,20.96
 Alabama,2021-07-24,21.91
 Alabama,2021-07-31,23.23
-Alabama,2021-08-07,26.37
+Alabama,2021-08-07,26.39
 Alabama,2021-08-14,28.60
-Alabama,2021-08-21,31.39
+Alabama,2021-08-21,31.41
 Alabama,2021-08-28,32.02
-Alabama,2021-09-04,31.87
-Alabama,2021-09-11,34.63
+Alabama,2021-09-04,31.89
+Alabama,2021-09-11,34.65
 Alabama,2021-09-18,31.45
 Alabama,2021-09-25,28.82
 Alabama,2021-10-02,29.66
-Alabama,2021-10-09,27.09
-Alabama,2021-10-16,25.28
+Alabama,2021-10-09,27.15
+Alabama,2021-10-16,25.30
 Alabama,2021-10-23,23.98
-Alabama,2021-10-30,22.05
-Alabama,2021-11-06,23.43
-Alabama,2021-11-13,23.13
-Alabama,2021-11-20,21.62
-Alabama,2021-11-27,23.31
-Alabama,2021-12-04,24.46
-Alabama,2021-12-11,24.32
-Alabama,2021-12-18,22.27
-Alabama,2021-12-25,21.87
-Alabama,2022-01-01,23.76
-Alabama,2022-01-08,24.64
-Alabama,2022-01-15,27.67
-Alabama,2022-01-22,25.79
-Alabama,2022-01-29,25.54
-Alabama,2022-02-05,17.26
+Alabama,2021-10-30,22.07
+Alabama,2021-11-06,23.45
+Alabama,2021-11-13,23.21
+Alabama,2021-11-20,21.63
+Alabama,2021-11-27,23.39
+Alabama,2021-12-04,24.60
+Alabama,2021-12-11,24.40
+Alabama,2021-12-18,22.45
+Alabama,2021-12-25,22.09
+Alabama,2022-01-01,24.08
+Alabama,2022-01-08,25.16
+Alabama,2022-01-15,28.44
+Alabama,2022-01-22,27.19
+Alabama,2022-01-29,29.26
+Alabama,2022-02-05,23.94
+Alabama,2022-02-12,15.88
 Arkansas,2020-01-04,22.31
 Arkansas,2020-01-11,22.78
 Arkansas,2020-01-18,21.85
@@ -3242,14 +3275,14 @@ Arkansas,2021-04-10,22.98
 Arkansas,2021-04-17,20.29
 Arkansas,2021-04-24,21.88
 Arkansas,2021-05-01,21.58
-Arkansas,2021-05-08,23.04
+Arkansas,2021-05-08,23.08
 Arkansas,2021-05-15,22.85
 Arkansas,2021-05-22,22.48
 Arkansas,2021-05-29,21.52
 Arkansas,2021-06-05,22.31
 Arkansas,2021-06-12,21.92
 Arkansas,2021-06-19,22.98
-Arkansas,2021-06-26,21.88
+Arkansas,2021-06-26,21.92
 Arkansas,2021-07-03,22.81
 Arkansas,2021-07-10,22.65
 Arkansas,2021-07-17,23.97
@@ -3258,30 +3291,31 @@ Arkansas,2021-07-31,27.96
 Arkansas,2021-08-07,29.69
 Arkansas,2021-08-14,29.79
 Arkansas,2021-08-21,28.46
-Arkansas,2021-08-28,29.82
+Arkansas,2021-08-28,29.85
 Arkansas,2021-09-04,28.72
 Arkansas,2021-09-11,27.96
-Arkansas,2021-09-18,29.19
+Arkansas,2021-09-18,29.25
 Arkansas,2021-09-25,26.33
 Arkansas,2021-10-02,27.26
 Arkansas,2021-10-09,27.39
 Arkansas,2021-10-16,24.64
 Arkansas,2021-10-23,24.54
-Arkansas,2021-10-30,24.41
-Arkansas,2021-11-06,23.58
+Arkansas,2021-10-30,24.44
+Arkansas,2021-11-06,23.61
 Arkansas,2021-11-13,25.07
-Arkansas,2021-11-20,24.74
-Arkansas,2021-11-27,24.94
+Arkansas,2021-11-20,24.77
+Arkansas,2021-11-27,24.97
 Arkansas,2021-12-04,26.43
-Arkansas,2021-12-11,26.20
-Arkansas,2021-12-18,26.73
-Arkansas,2021-12-25,24.61
-Arkansas,2022-01-01,25.90
-Arkansas,2022-01-08,28.22
-Arkansas,2022-01-15,27.46
-Arkansas,2022-01-22,26.66
-Arkansas,2022-01-29,25.70
-Arkansas,2022-02-05,21.28
+Arkansas,2021-12-11,26.30
+Arkansas,2021-12-18,26.80
+Arkansas,2021-12-25,24.71
+Arkansas,2022-01-01,25.93
+Arkansas,2022-01-08,28.39
+Arkansas,2022-01-15,27.63
+Arkansas,2022-01-22,27.56
+Arkansas,2022-01-29,27.66
+Arkansas,2022-02-05,25.14
+Arkansas,2022-02-12,20.52
 Washington,2020-01-04,15.35
 Washington,2020-01-11,16.17
 Washington,2020-01-18,15.85
@@ -3365,33 +3399,34 @@ Washington,2021-07-10,16.72
 Washington,2021-07-17,15.90
 Washington,2021-07-24,16.08
 Washington,2021-07-31,15.90
-Washington,2021-08-07,16.52
+Washington,2021-08-07,16.53
 Washington,2021-08-14,17.07
 Washington,2021-08-21,17.25
-Washington,2021-08-28,18.29
+Washington,2021-08-28,18.31
 Washington,2021-09-04,20.03
-Washington,2021-09-11,19.30
+Washington,2021-09-11,19.31
 Washington,2021-09-18,19.36
-Washington,2021-09-25,19.44
-Washington,2021-10-02,19.36
+Washington,2021-09-25,19.45
+Washington,2021-10-02,19.38
 Washington,2021-10-09,18.52
 Washington,2021-10-16,18.58
 Washington,2021-10-23,17.81
 Washington,2021-10-30,18.00
-Washington,2021-11-06,18.33
-Washington,2021-11-13,18.04
-Washington,2021-11-20,17.20
-Washington,2021-11-27,17.17
+Washington,2021-11-06,18.34
+Washington,2021-11-13,18.05
+Washington,2021-11-20,17.22
+Washington,2021-11-27,17.18
 Washington,2021-12-04,17.78
-Washington,2021-12-11,17.83
-Washington,2021-12-18,17.03
-Washington,2021-12-25,17.77
-Washington,2022-01-01,18.49
-Washington,2022-01-08,19.40
-Washington,2022-01-15,19.82
-Washington,2022-01-22,18.25
-Washington,2022-01-29,12.38
-Washington,2022-02-05,10.46
+Washington,2021-12-11,17.84
+Washington,2021-12-18,17.07
+Washington,2021-12-25,17.90
+Washington,2022-01-01,18.51
+Washington,2022-01-08,19.47
+Washington,2022-01-15,19.91
+Washington,2022-01-22,18.42
+Washington,2022-01-29,12.80
+Washington,2022-02-05,11.91
+Washington,2022-02-12,10.27
 South Carolina,2020-01-04,21.20
 South Carolina,2020-01-11,21.12
 South Carolina,2020-01-18,20.48
@@ -3473,35 +3508,36 @@ South Carolina,2021-06-26,20.20
 South Carolina,2021-07-03,20.12
 South Carolina,2021-07-10,20.38
 South Carolina,2021-07-17,20.03
-South Carolina,2021-07-24,21.06
+South Carolina,2021-07-24,21.08
 South Carolina,2021-07-31,21.69
 South Carolina,2021-08-07,22.23
 South Carolina,2021-08-14,24.87
 South Carolina,2021-08-21,26.41
-South Carolina,2021-08-28,27.22
-South Carolina,2021-09-04,28.43
+South Carolina,2021-08-28,27.23
+South Carolina,2021-09-04,28.45
 South Carolina,2021-09-11,28.29
 South Carolina,2021-09-18,29.93
 South Carolina,2021-09-25,27.86
 South Carolina,2021-10-02,25.05
 South Carolina,2021-10-09,26.61
-South Carolina,2021-10-16,24.87
+South Carolina,2021-10-16,24.89
 South Carolina,2021-10-23,23.00
-South Carolina,2021-10-30,21.53
-South Carolina,2021-11-06,21.24
-South Carolina,2021-11-13,22.39
-South Carolina,2021-11-20,21.67
-South Carolina,2021-11-27,22.74
-South Carolina,2021-12-04,22.29
-South Carolina,2021-12-11,21.69
-South Carolina,2021-12-18,19.52
-South Carolina,2021-12-25,20.77
-South Carolina,2022-01-01,19.54
-South Carolina,2022-01-08,14.03
-South Carolina,2022-01-15,19.56
-South Carolina,2022-01-22,18.05
-South Carolina,2022-01-29,20.77
-South Carolina,2022-02-05,20.26
+South Carolina,2021-10-30,21.61
+South Carolina,2021-11-06,21.28
+South Carolina,2021-11-13,22.43
+South Carolina,2021-11-20,21.69
+South Carolina,2021-11-27,22.80
+South Carolina,2021-12-04,22.33
+South Carolina,2021-12-11,21.74
+South Carolina,2021-12-18,19.60
+South Carolina,2021-12-25,20.85
+South Carolina,2022-01-01,19.67
+South Carolina,2022-01-08,14.44
+South Carolina,2022-01-15,20.55
+South Carolina,2022-01-22,20.89
+South Carolina,2022-01-29,28.56
+South Carolina,2022-02-05,26.43
+South Carolina,2022-02-12,18.31
 Nebraska,2020-01-04,17.64
 Nebraska,2020-01-11,18.46
 Nebraska,2020-01-18,16.98
@@ -3600,17 +3636,18 @@ Nebraska,2021-10-23,21.26
 Nebraska,2021-10-30,21.16
 Nebraska,2021-11-06,19.27
 Nebraska,2021-11-13,21.46
-Nebraska,2021-11-20,21.97
+Nebraska,2021-11-20,22.07
 Nebraska,2021-11-27,20.90
-Nebraska,2021-12-04,21.72
+Nebraska,2021-12-04,21.77
 Nebraska,2021-12-11,23.15
-Nebraska,2021-12-18,20.49
-Nebraska,2021-12-25,22.38
-Nebraska,2022-01-01,20.14
+Nebraska,2021-12-18,20.55
+Nebraska,2021-12-25,22.43
+Nebraska,2022-01-01,20.55
 Nebraska,2022-01-08,22.64
-Nebraska,2022-01-15,22.99
-Nebraska,2022-01-22,18.30
-Nebraska,2022-01-29,15.40
+Nebraska,2022-01-15,23.30
+Nebraska,2022-01-22,18.66
+Nebraska,2022-01-29,17.59
+Nebraska,2022-02-05,13.51
 West Virginia,2020-01-04,26.43
 West Virginia,2020-01-11,27.54
 West Virginia,2020-01-18,28.99
@@ -3678,7 +3715,7 @@ West Virginia,2021-03-20,28.15
 West Virginia,2021-03-27,28.43
 West Virginia,2021-04-03,26.82
 West Virginia,2021-04-10,27.15
-West Virginia,2021-04-17,28.21
+West Virginia,2021-04-17,28.32
 West Virginia,2021-04-24,26.26
 West Virginia,2021-05-01,28.99
 West Virginia,2021-05-08,27.21
@@ -3686,34 +3723,37 @@ West Virginia,2021-05-15,26.87
 West Virginia,2021-05-22,25.81
 West Virginia,2021-05-29,25.59
 West Virginia,2021-06-05,27.15
-West Virginia,2021-06-12,26.09
+West Virginia,2021-06-12,26.15
 West Virginia,2021-06-19,26.70
 West Virginia,2021-06-26,24.59
 West Virginia,2021-07-03,25.59
 West Virginia,2021-07-10,25.98
 West Virginia,2021-07-17,22.41
-West Virginia,2021-07-24,23.19
-West Virginia,2021-07-31,25.25
-West Virginia,2021-08-07,28.77
+West Virginia,2021-07-24,23.58
+West Virginia,2021-07-31,25.53
+West Virginia,2021-08-07,28.93
 West Virginia,2021-08-14,27.88
-West Virginia,2021-08-21,27.54
-West Virginia,2021-08-28,30.38
-West Virginia,2021-09-04,33.00
-West Virginia,2021-09-11,35.18
-West Virginia,2021-09-18,35.68
-West Virginia,2021-09-25,37.52
-West Virginia,2021-10-02,39.92
-West Virginia,2021-10-09,35.85
-West Virginia,2021-10-16,34.12
-West Virginia,2021-10-23,32.45
-West Virginia,2021-10-30,27.71
-West Virginia,2021-11-06,29.16
-West Virginia,2021-11-13,27.82
-West Virginia,2021-11-20,24.14
-West Virginia,2021-11-27,15.05
-West Virginia,2021-12-04,17.06
-West Virginia,2022-01-08,15.61
-West Virginia,2022-01-22,14.22
+West Virginia,2021-08-21,27.76
+West Virginia,2021-08-28,30.61
+West Virginia,2021-09-04,33.23
+West Virginia,2021-09-11,35.23
+West Virginia,2021-09-18,35.79
+West Virginia,2021-09-25,37.63
+West Virginia,2021-10-02,40.14
+West Virginia,2021-10-09,36.07
+West Virginia,2021-10-16,34.57
+West Virginia,2021-10-23,32.73
+West Virginia,2021-10-30,28.10
+West Virginia,2021-11-06,29.88
+West Virginia,2021-11-13,29.55
+West Virginia,2021-11-20,27.48
+West Virginia,2021-11-27,19.85
+West Virginia,2021-12-04,21.35
+West Virginia,2021-12-11,16.11
+West Virginia,2022-01-08,20.24
+West Virginia,2022-01-15,14.27
+West Virginia,2022-01-22,16.33
+West Virginia,2022-01-29,13.99
 Massachusetts,2020-01-04,17.67
 Massachusetts,2020-01-11,18.02
 Massachusetts,2020-01-18,16.91
@@ -3778,7 +3818,7 @@ Massachusetts,2021-02-27,18.05
 Massachusetts,2021-03-06,17.35
 Massachusetts,2021-03-13,17.25
 Massachusetts,2021-03-20,17.10
-Massachusetts,2021-03-27,16.59
+Massachusetts,2021-03-27,16.60
 Massachusetts,2021-04-03,15.95
 Massachusetts,2021-04-10,15.86
 Massachusetts,2021-04-17,16.20
@@ -3807,23 +3847,24 @@ Massachusetts,2021-09-18,16.49
 Massachusetts,2021-09-25,16.53
 Massachusetts,2021-10-02,17.20
 Massachusetts,2021-10-09,16.91
-Massachusetts,2021-10-16,17.65
-Massachusetts,2021-10-23,17.58
+Massachusetts,2021-10-16,17.67
+Massachusetts,2021-10-23,17.60
 Massachusetts,2021-10-30,17.75
-Massachusetts,2021-11-06,18.38
-Massachusetts,2021-11-13,18.28
-Massachusetts,2021-11-20,17.92
+Massachusetts,2021-11-06,18.39
+Massachusetts,2021-11-13,18.31
+Massachusetts,2021-11-20,18.01
 Massachusetts,2021-11-27,18.09
-Massachusetts,2021-12-04,19.03
-Massachusetts,2021-12-11,20.53
-Massachusetts,2021-12-18,19.33
-Massachusetts,2021-12-25,19.86
-Massachusetts,2022-01-01,21.37
-Massachusetts,2022-01-08,21.45
-Massachusetts,2022-01-15,22.30
-Massachusetts,2022-01-22,23.47
-Massachusetts,2022-01-29,20.41
-Massachusetts,2022-02-05,14.71
+Massachusetts,2021-12-04,19.05
+Massachusetts,2021-12-11,20.61
+Massachusetts,2021-12-18,19.37
+Massachusetts,2021-12-25,19.94
+Massachusetts,2022-01-01,21.44
+Massachusetts,2022-01-08,21.51
+Massachusetts,2022-01-15,22.52
+Massachusetts,2022-01-22,23.81
+Massachusetts,2022-01-29,22.18
+Massachusetts,2022-02-05,18.17
+Massachusetts,2022-02-12,13.57
 Colorado,2020-01-04,14.79
 Colorado,2020-01-11,15.10
 Colorado,2020-01-18,14.69
@@ -3916,24 +3957,25 @@ Colorado,2021-09-11,15.95
 Colorado,2021-09-18,16.97
 Colorado,2021-09-25,16.75
 Colorado,2021-10-02,17.96
-Colorado,2021-10-09,17.08
+Colorado,2021-10-09,17.09
 Colorado,2021-10-16,17.94
 Colorado,2021-10-23,18.06
-Colorado,2021-10-30,18.50
+Colorado,2021-10-30,18.51
 Colorado,2021-11-06,20.19
-Colorado,2021-11-13,19.26
+Colorado,2021-11-13,19.28
 Colorado,2021-11-20,20.04
-Colorado,2021-11-27,20.32
-Colorado,2021-12-04,20.11
-Colorado,2021-12-11,18.05
-Colorado,2021-12-18,18.95
-Colorado,2021-12-25,18.83
-Colorado,2022-01-01,19.42
-Colorado,2022-01-08,19.88
-Colorado,2022-01-15,19.73
-Colorado,2022-01-22,18.58
-Colorado,2022-01-29,14.88
-Colorado,2022-02-05,9.65
+Colorado,2021-11-27,20.30
+Colorado,2021-12-04,20.13
+Colorado,2021-12-11,18.10
+Colorado,2021-12-18,18.97
+Colorado,2021-12-25,18.90
+Colorado,2022-01-01,19.47
+Colorado,2022-01-08,20.11
+Colorado,2022-01-15,20.14
+Colorado,2022-01-22,19.64
+Colorado,2022-01-29,18.26
+Colorado,2022-02-05,15.03
+Colorado,2022-02-12,9.79
 Missouri,2020-01-04,21.56
 Missouri,2020-01-11,21.66
 Missouri,2020-01-18,21.67
@@ -4011,39 +4053,40 @@ Missouri,2021-05-29,20.54
 Missouri,2021-06-05,21.53
 Missouri,2021-06-12,21.92
 Missouri,2021-06-19,20.94
-Missouri,2021-06-26,22.49
+Missouri,2021-06-26,22.50
 Missouri,2021-07-03,21.09
 Missouri,2021-07-10,22.58
 Missouri,2021-07-17,23.64
 Missouri,2021-07-24,23.46
-Missouri,2021-07-31,24.55
+Missouri,2021-07-31,24.58
 Missouri,2021-08-07,26.82
 Missouri,2021-08-14,26.95
-Missouri,2021-08-21,26.66
+Missouri,2021-08-21,26.68
 Missouri,2021-08-28,27.05
-Missouri,2021-09-04,25.05
+Missouri,2021-09-04,25.07
 Missouri,2021-09-11,24.05
-Missouri,2021-09-18,24.68
+Missouri,2021-09-18,24.71
 Missouri,2021-09-25,25.82
-Missouri,2021-10-02,25.07
-Missouri,2021-10-09,22.83
-Missouri,2021-10-16,23.90
-Missouri,2021-10-23,22.58
-Missouri,2021-10-30,23.07
-Missouri,2021-11-06,22.71
-Missouri,2021-11-13,23.82
-Missouri,2021-11-20,23.17
-Missouri,2021-11-27,23.72
-Missouri,2021-12-04,23.59
-Missouri,2021-12-11,24.97
-Missouri,2021-12-18,24.83
-Missouri,2021-12-25,25.07
-Missouri,2022-01-01,24.31
-Missouri,2022-01-08,25.46
-Missouri,2022-01-15,23.57
-Missouri,2022-01-22,25.07
-Missouri,2022-01-29,21.24
-Missouri,2022-02-05,13.13
+Missouri,2021-10-02,25.12
+Missouri,2021-10-09,22.86
+Missouri,2021-10-16,23.92
+Missouri,2021-10-23,22.60
+Missouri,2021-10-30,23.14
+Missouri,2021-11-06,22.76
+Missouri,2021-11-13,23.87
+Missouri,2021-11-20,23.28
+Missouri,2021-11-27,23.82
+Missouri,2021-12-04,23.83
+Missouri,2021-12-11,25.22
+Missouri,2021-12-18,25.20
+Missouri,2021-12-25,25.39
+Missouri,2022-01-01,24.65
+Missouri,2022-01-08,26.00
+Missouri,2022-01-15,24.40
+Missouri,2022-01-22,26.50
+Missouri,2022-01-29,23.96
+Missouri,2022-02-05,18.28
+Missouri,2022-02-12,13.40
 Alaska,2020-01-04,12.14
 Alaska,2020-01-11,14.32
 Alaska,2020-01-18,13.50
@@ -4114,7 +4157,7 @@ Alaska,2021-04-10,13.77
 Alaska,2021-04-17,12.95
 Alaska,2021-04-24,11.45
 Alaska,2021-05-01,15.41
-Alaska,2021-05-08,12.27
+Alaska,2021-05-08,12.41
 Alaska,2021-05-15,13.50
 Alaska,2021-05-22,13.23
 Alaska,2021-05-29,14.86
@@ -4135,24 +4178,25 @@ Alaska,2021-09-04,17.86
 Alaska,2021-09-11,17.59
 Alaska,2021-09-18,19.77
 Alaska,2021-09-25,20.59
-Alaska,2021-10-02,23.18
-Alaska,2021-10-09,20.45
+Alaska,2021-10-02,23.32
+Alaska,2021-10-09,20.59
 Alaska,2021-10-16,21.41
 Alaska,2021-10-23,23.32
 Alaska,2021-10-30,22.50
 Alaska,2021-11-06,19.91
-Alaska,2021-11-13,14.86
-Alaska,2021-11-20,16.64
-Alaska,2021-11-27,18.95
+Alaska,2021-11-13,15.00
+Alaska,2021-11-20,17.04
+Alaska,2021-11-27,19.50
 Alaska,2021-12-04,17.04
-Alaska,2021-12-11,15.68
-Alaska,2021-12-18,12.41
-Alaska,2021-12-25,11.45
-Alaska,2022-01-01,11.45
-Alaska,2022-01-08,10.36
-Alaska,2022-01-15,10.50
-Alaska,2022-01-22,9.00
-Alaska,2022-01-29,7.91
+Alaska,2021-12-11,16.23
+Alaska,2021-12-18,13.64
+Alaska,2021-12-25,12.54
+Alaska,2022-01-01,12.41
+Alaska,2022-01-08,12.00
+Alaska,2022-01-15,11.73
+Alaska,2022-01-22,11.59
+Alaska,2022-01-29,9.95
+Alaska,2022-02-05,6.54
 North Dakota,2020-01-04,19.12
 North Dakota,2020-01-11,19.38
 North Dakota,2020-01-18,21.95
@@ -4256,12 +4300,13 @@ North Dakota,2021-11-27,17.20
 North Dakota,2021-12-04,19.38
 North Dakota,2021-12-11,17.71
 North Dakota,2021-12-18,14.89
-North Dakota,2021-12-25,14.63
+North Dakota,2021-12-25,14.76
 North Dakota,2022-01-01,16.43
-North Dakota,2022-01-08,16.43
+North Dakota,2022-01-08,16.56
 North Dakota,2022-01-15,16.94
 North Dakota,2022-01-22,11.81
-North Dakota,2022-01-29,13.73
+North Dakota,2022-01-29,14.38
+North Dakota,2022-02-05,12.96
 Wisconsin,2020-01-04,18.97
 Wisconsin,2020-01-11,17.99
 Wisconsin,2020-01-18,19.22
@@ -4329,7 +4374,7 @@ Wisconsin,2021-03-20,16.90
 Wisconsin,2021-03-27,17.43
 Wisconsin,2021-04-03,16.64
 Wisconsin,2021-04-10,18.02
-Wisconsin,2021-04-17,16.73
+Wisconsin,2021-04-17,16.75
 Wisconsin,2021-04-24,18.15
 Wisconsin,2021-05-01,17.34
 Wisconsin,2021-05-08,17.41
@@ -4346,7 +4391,7 @@ Wisconsin,2021-07-17,16.20
 Wisconsin,2021-07-24,18.27
 Wisconsin,2021-07-31,18.70
 Wisconsin,2021-08-07,18.22
-Wisconsin,2021-08-14,17.97
+Wisconsin,2021-08-14,17.99
 Wisconsin,2021-08-21,19.50
 Wisconsin,2021-08-28,19.99
 Wisconsin,2021-09-04,19.87
@@ -4356,22 +4401,23 @@ Wisconsin,2021-09-25,20.02
 Wisconsin,2021-10-02,22.19
 Wisconsin,2021-10-09,21.55
 Wisconsin,2021-10-16,21.57
-Wisconsin,2021-10-23,21.79
-Wisconsin,2021-10-30,22.41
+Wisconsin,2021-10-23,21.85
+Wisconsin,2021-10-30,22.43
 Wisconsin,2021-11-06,22.40
 Wisconsin,2021-11-13,22.26
-Wisconsin,2021-11-20,22.97
-Wisconsin,2021-11-27,23.50
+Wisconsin,2021-11-20,22.99
+Wisconsin,2021-11-27,23.52
 Wisconsin,2021-12-04,23.40
-Wisconsin,2021-12-11,24.60
-Wisconsin,2021-12-18,24.99
-Wisconsin,2021-12-25,24.50
-Wisconsin,2022-01-01,24.86
-Wisconsin,2022-01-08,26.23
-Wisconsin,2022-01-15,26.21
-Wisconsin,2022-01-22,23.84
-Wisconsin,2022-01-29,19.63
-Wisconsin,2022-02-05,13.78
+Wisconsin,2021-12-11,24.64
+Wisconsin,2021-12-18,25.01
+Wisconsin,2021-12-25,24.52
+Wisconsin,2022-01-01,24.92
+Wisconsin,2022-01-08,26.37
+Wisconsin,2022-01-15,26.60
+Wisconsin,2022-01-22,24.70
+Wisconsin,2022-01-29,22.46
+Wisconsin,2022-02-05,17.73
+Wisconsin,2022-02-12,12.32
 Nevada,2020-01-04,16.78
 Nevada,2020-01-11,17.91
 Nevada,2020-01-18,19.49
@@ -4467,21 +4513,22 @@ Nevada,2021-10-02,20.78
 Nevada,2021-10-09,21.77
 Nevada,2021-10-16,22.03
 Nevada,2021-10-23,22.13
-Nevada,2021-10-30,20.58
+Nevada,2021-10-30,20.61
 Nevada,2021-11-06,22.84
-Nevada,2021-11-13,21.07
-Nevada,2021-11-20,21.55
+Nevada,2021-11-13,21.13
+Nevada,2021-11-20,21.58
 Nevada,2021-11-27,19.74
-Nevada,2021-12-04,22.22
-Nevada,2021-12-11,21.23
-Nevada,2021-12-18,20.74
-Nevada,2021-12-25,21.52
-Nevada,2022-01-01,21.94
-Nevada,2022-01-08,22.77
-Nevada,2022-01-15,23.00
-Nevada,2022-01-22,25.19
-Nevada,2022-01-29,19.91
-Nevada,2022-02-05,13.40
+Nevada,2021-12-04,22.29
+Nevada,2021-12-11,21.26
+Nevada,2021-12-18,21.00
+Nevada,2021-12-25,21.87
+Nevada,2022-01-01,22.29
+Nevada,2022-01-08,23.55
+Nevada,2022-01-15,24.00
+Nevada,2022-01-22,26.67
+Nevada,2022-01-29,23.67
+Nevada,2022-02-05,19.74
+Nevada,2022-02-12,12.24
 Rhode Island,2020-01-04,20.50
 Rhode Island,2020-01-11,18.32
 Rhode Island,2020-01-18,18.59
@@ -4538,7 +4585,7 @@ Rhode Island,2021-01-02,25.88
 Rhode Island,2021-01-09,26.88
 Rhode Island,2021-01-16,26.88
 Rhode Island,2021-01-23,28.25
-Rhode Island,2021-01-30,23.97
+Rhode Island,2021-01-30,24.06
 Rhode Island,2021-02-06,24.51
 Rhode Island,2021-02-13,22.69
 Rhode Island,2021-02-20,20.32
@@ -4567,7 +4614,7 @@ Rhode Island,2021-07-24,16.13
 Rhode Island,2021-07-31,16.68
 Rhode Island,2021-08-07,20.87
 Rhode Island,2021-08-14,17.13
-Rhode Island,2021-08-21,18.95
+Rhode Island,2021-08-21,19.05
 Rhode Island,2021-08-28,20.05
 Rhode Island,2021-09-04,19.32
 Rhode Island,2021-09-11,19.50
@@ -4579,19 +4626,20 @@ Rhode Island,2021-10-16,21.05
 Rhode Island,2021-10-23,19.41
 Rhode Island,2021-10-30,19.32
 Rhode Island,2021-11-06,18.95
-Rhode Island,2021-11-13,20.05
-Rhode Island,2021-11-20,22.23
-Rhode Island,2021-11-27,21.87
-Rhode Island,2021-12-04,22.69
-Rhode Island,2021-12-11,17.04
-Rhode Island,2021-12-18,16.31
-Rhode Island,2021-12-25,18.50
-Rhode Island,2022-01-01,18.68
-Rhode Island,2022-01-08,22.96
-Rhode Island,2022-01-15,23.51
-Rhode Island,2022-01-22,23.78
-Rhode Island,2022-01-29,18.77
-Rhode Island,2022-02-05,13.12
+Rhode Island,2021-11-13,20.14
+Rhode Island,2021-11-20,22.42
+Rhode Island,2021-11-27,22.33
+Rhode Island,2021-12-04,23.69
+Rhode Island,2021-12-11,18.32
+Rhode Island,2021-12-18,17.50
+Rhode Island,2021-12-25,20.59
+Rhode Island,2022-01-01,22.42
+Rhode Island,2022-01-08,23.05
+Rhode Island,2022-01-15,24.15
+Rhode Island,2022-01-22,25.24
+Rhode Island,2022-01-29,22.33
+Rhode Island,2022-02-05,17.86
+Rhode Island,2022-02-12,15.13
 District of Columbia,2020-01-04,19.14
 District of Columbia,2020-01-11,18.56
 District of Columbia,2020-01-18,20.30
@@ -4691,12 +4739,12 @@ District of Columbia,2021-10-30,20.30
 District of Columbia,2021-11-06,19.00
 District of Columbia,2021-11-13,20.74
 District of Columbia,2021-11-20,17.55
-District of Columbia,2021-11-27,18.56
-District of Columbia,2021-12-04,18.71
-District of Columbia,2021-12-11,21.61
-District of Columbia,2021-12-18,16.10
+District of Columbia,2021-11-27,18.71
+District of Columbia,2021-12-04,18.85
+District of Columbia,2021-12-11,21.75
+District of Columbia,2021-12-18,16.24
 District of Columbia,2021-12-25,19.29
-District of Columbia,2022-01-01,19.43
+District of Columbia,2022-01-01,20.01
 New York,2020-01-04,16.43
 New York,2020-01-11,15.98
 New York,2020-01-18,16.33
@@ -4791,22 +4839,23 @@ New York,2021-09-25,16.00
 New York,2021-10-02,16.81
 New York,2021-10-09,16.88
 New York,2021-10-16,15.76
-New York,2021-10-23,15.90
-New York,2021-10-30,16.47
+New York,2021-10-23,15.91
+New York,2021-10-30,16.48
 New York,2021-11-06,16.78
 New York,2021-11-13,17.45
 New York,2021-11-20,17.07
-New York,2021-11-27,17.79
-New York,2021-12-04,17.96
-New York,2021-12-11,18.38
-New York,2021-12-18,18.41
-New York,2021-12-25,19.11
-New York,2022-01-01,20.34
-New York,2022-01-08,22.10
-New York,2022-01-15,24.51
-New York,2022-01-22,23.09
-New York,2022-01-29,21.02
-New York,2022-02-05,16.40
+New York,2021-11-27,17.80
+New York,2021-12-04,17.97
+New York,2021-12-11,18.39
+New York,2021-12-18,18.42
+New York,2021-12-25,19.12
+New York,2022-01-01,20.35
+New York,2022-01-08,22.16
+New York,2022-01-15,24.55
+New York,2022-01-22,23.25
+New York,2022-01-29,21.49
+New York,2022-02-05,19.53
+New York,2022-02-12,14.45
 South Dakota,2020-01-04,19.17
 South Dakota,2020-01-11,19.17
 South Dakota,2020-01-18,18.95
@@ -4896,7 +4945,7 @@ South Dakota,2021-08-21,18.38
 South Dakota,2021-08-28,20.53
 South Dakota,2021-09-04,22.22
 South Dakota,2021-09-11,21.09
-South Dakota,2021-09-18,19.62
+South Dakota,2021-09-18,19.85
 South Dakota,2021-09-25,24.02
 South Dakota,2021-10-02,23.23
 South Dakota,2021-10-09,19.74
@@ -4906,16 +4955,16 @@ South Dakota,2021-10-30,22.33
 South Dakota,2021-11-06,24.14
 South Dakota,2021-11-13,22.44
 South Dakota,2021-11-20,24.47
-South Dakota,2021-11-27,24.14
-South Dakota,2021-12-04,24.36
-South Dakota,2021-12-11,25.15
-South Dakota,2021-12-18,23.57
-South Dakota,2021-12-25,21.09
-South Dakota,2022-01-01,22.89
-South Dakota,2022-01-08,24.14
-South Dakota,2022-01-15,23.46
-South Dakota,2022-01-22,18.16
-South Dakota,2022-01-29,9.92
+South Dakota,2021-11-27,24.25
+South Dakota,2021-12-04,24.70
+South Dakota,2021-12-11,25.26
+South Dakota,2021-12-18,23.80
+South Dakota,2021-12-25,21.43
+South Dakota,2022-01-01,23.35
+South Dakota,2022-01-08,25.04
+South Dakota,2022-01-15,24.59
+South Dakota,2022-01-22,20.86
+South Dakota,2022-01-29,17.82
 Hawaii,2020-01-04,16.63
 Hawaii,2020-01-11,16.63
 Hawaii,2020-01-18,14.77
@@ -5002,7 +5051,7 @@ Hawaii,2021-07-31,15.94
 Hawaii,2021-08-07,14.91
 Hawaii,2021-08-14,19.17
 Hawaii,2021-08-21,20.75
-Hawaii,2021-08-28,21.58
+Hawaii,2021-08-28,21.65
 Hawaii,2021-09-04,20.89
 Hawaii,2021-09-11,21.44
 Hawaii,2021-09-18,18.35
@@ -5019,13 +5068,14 @@ Hawaii,2021-11-27,15.53
 Hawaii,2021-12-04,17.18
 Hawaii,2021-12-11,15.87
 Hawaii,2021-12-18,17.32
-Hawaii,2021-12-25,16.97
-Hawaii,2022-01-01,16.08
-Hawaii,2022-01-08,16.84
-Hawaii,2022-01-15,18.62
-Hawaii,2022-01-22,19.31
-Hawaii,2022-01-29,15.94
-Hawaii,2022-02-05,9.28
+Hawaii,2021-12-25,17.11
+Hawaii,2022-01-01,16.22
+Hawaii,2022-01-08,16.77
+Hawaii,2022-01-15,19.45
+Hawaii,2022-01-22,20.41
+Hawaii,2022-01-29,18.14
+Hawaii,2022-02-05,12.71
+Hawaii,2022-02-12,10.24
 Minnesota,2020-01-04,17.68
 Minnesota,2020-01-11,16.65
 Minnesota,2020-01-18,16.58
@@ -5095,11 +5145,11 @@ Minnesota,2021-04-03,15.28
 Minnesota,2021-04-10,15.30
 Minnesota,2021-04-17,15.65
 Minnesota,2021-04-24,16.37
-Minnesota,2021-05-01,16.93
+Minnesota,2021-05-01,16.95
 Minnesota,2021-05-08,15.70
 Minnesota,2021-05-15,16.44
 Minnesota,2021-05-22,15.60
-Minnesota,2021-05-29,15.32
+Minnesota,2021-05-29,15.33
 Minnesota,2021-06-05,14.88
 Minnesota,2021-06-12,16.07
 Minnesota,2021-06-19,14.90
@@ -5108,7 +5158,7 @@ Minnesota,2021-07-03,15.56
 Minnesota,2021-07-10,15.60
 Minnesota,2021-07-17,15.28
 Minnesota,2021-07-24,14.63
-Minnesota,2021-07-31,15.95
+Minnesota,2021-07-31,15.96
 Minnesota,2021-08-07,15.91
 Minnesota,2021-08-14,16.67
 Minnesota,2021-08-21,15.70
@@ -5116,26 +5166,27 @@ Minnesota,2021-08-28,15.89
 Minnesota,2021-09-04,16.98
 Minnesota,2021-09-11,17.19
 Minnesota,2021-09-18,17.31
-Minnesota,2021-09-25,17.28
+Minnesota,2021-09-25,17.31
 Minnesota,2021-10-02,18.45
 Minnesota,2021-10-09,18.26
-Minnesota,2021-10-16,17.86
-Minnesota,2021-10-23,18.73
+Minnesota,2021-10-16,17.87
+Minnesota,2021-10-23,18.75
 Minnesota,2021-10-30,19.22
 Minnesota,2021-11-06,18.08
-Minnesota,2021-11-13,20.45
-Minnesota,2021-11-20,20.80
-Minnesota,2021-11-27,21.48
-Minnesota,2021-12-04,21.73
-Minnesota,2021-12-11,21.57
-Minnesota,2021-12-18,21.68
-Minnesota,2021-12-25,20.15
-Minnesota,2022-01-01,20.54
-Minnesota,2022-01-08,19.56
-Minnesota,2022-01-15,19.87
-Minnesota,2022-01-22,19.07
-Minnesota,2022-01-29,18.37
-Minnesota,2022-02-05,11.60
+Minnesota,2021-11-13,20.47
+Minnesota,2021-11-20,20.82
+Minnesota,2021-11-27,21.50
+Minnesota,2021-12-04,21.82
+Minnesota,2021-12-11,21.68
+Minnesota,2021-12-18,21.75
+Minnesota,2021-12-25,20.33
+Minnesota,2022-01-01,20.64
+Minnesota,2022-01-08,19.75
+Minnesota,2022-01-15,20.12
+Minnesota,2022-01-22,19.45
+Minnesota,2022-01-29,19.45
+Minnesota,2022-02-05,15.86
+Minnesota,2022-02-12,11.95
 New Jersey,2020-01-04,17.53
 New Jersey,2020-01-11,17.10
 New Jersey,2020-01-18,16.04
@@ -5207,45 +5258,46 @@ New Jersey,2021-04-17,17.05
 New Jersey,2021-04-24,17.87
 New Jersey,2021-05-01,17.74
 New Jersey,2021-05-08,15.83
-New Jersey,2021-05-15,15.89
+New Jersey,2021-05-15,15.90
 New Jersey,2021-05-22,15.73
-New Jersey,2021-05-29,14.26
+New Jersey,2021-05-29,14.27
 New Jersey,2021-06-05,15.02
-New Jersey,2021-06-12,12.28
-New Jersey,2021-06-19,14.35
-New Jersey,2021-06-26,14.79
+New Jersey,2021-06-12,12.30
+New Jersey,2021-06-19,14.36
+New Jersey,2021-06-26,14.80
 New Jersey,2021-07-03,14.81
-New Jersey,2021-07-10,14.88
-New Jersey,2021-07-17,13.96
-New Jersey,2021-07-24,14.75
-New Jersey,2021-07-31,14.76
-New Jersey,2021-08-07,14.99
+New Jersey,2021-07-10,14.90
+New Jersey,2021-07-17,13.97
+New Jersey,2021-07-24,14.76
+New Jersey,2021-07-31,14.77
+New Jersey,2021-08-07,15.00
 New Jersey,2021-08-14,15.37
 New Jersey,2021-08-21,15.72
 New Jersey,2021-08-28,15.94
 New Jersey,2021-09-04,16.42
 New Jersey,2021-09-11,16.49
-New Jersey,2021-09-18,16.94
-New Jersey,2021-09-25,16.64
+New Jersey,2021-09-18,16.96
+New Jersey,2021-09-25,16.65
 New Jersey,2021-10-02,16.22
 New Jersey,2021-10-09,17.13
 New Jersey,2021-10-16,16.61
 New Jersey,2021-10-23,16.41
-New Jersey,2021-10-30,16.85
-New Jersey,2021-11-06,17.66
-New Jersey,2021-11-13,16.80
-New Jersey,2021-11-20,15.98
+New Jersey,2021-10-30,16.86
+New Jersey,2021-11-06,17.67
+New Jersey,2021-11-13,16.79
+New Jersey,2021-11-20,15.99
 New Jersey,2021-11-27,17.26
-New Jersey,2021-12-04,17.42
-New Jersey,2021-12-11,17.66
-New Jersey,2021-12-18,18.39
-New Jersey,2021-12-25,18.69
-New Jersey,2022-01-01,20.84
-New Jersey,2022-01-08,24.44
-New Jersey,2022-01-15,26.55
-New Jersey,2022-01-22,25.55
-New Jersey,2022-01-29,20.36
-New Jersey,2022-02-05,15.75
+New Jersey,2021-12-04,17.44
+New Jersey,2021-12-11,17.69
+New Jersey,2021-12-18,18.40
+New Jersey,2021-12-25,18.74
+New Jersey,2022-01-01,20.92
+New Jersey,2022-01-08,24.47
+New Jersey,2022-01-15,26.78
+New Jersey,2022-01-22,25.93
+New Jersey,2022-01-29,22.46
+New Jersey,2022-02-05,18.75
+New Jersey,2022-02-12,12.78
 Michigan,2020-01-04,20.00
 Michigan,2020-01-11,20.49
 Michigan,2020-01-18,19.21
@@ -5313,7 +5365,7 @@ Michigan,2021-03-20,20.00
 Michigan,2021-03-27,20.76
 Michigan,2021-04-03,20.36
 Michigan,2021-04-10,23.15
-Michigan,2021-04-17,22.60
+Michigan,2021-04-17,22.61
 Michigan,2021-04-24,23.92
 Michigan,2021-05-01,23.08
 Michigan,2021-05-08,22.36
@@ -5329,7 +5381,7 @@ Michigan,2021-07-10,19.01
 Michigan,2021-07-17,18.52
 Michigan,2021-07-24,18.79
 Michigan,2021-07-31,18.45
-Michigan,2021-08-07,19.19
+Michigan,2021-08-07,19.20
 Michigan,2021-08-14,19.44
 Michigan,2021-08-21,20.29
 Michigan,2021-08-28,19.72
@@ -5340,22 +5392,23 @@ Michigan,2021-09-25,20.53
 Michigan,2021-10-02,22.23
 Michigan,2021-10-09,21.35
 Michigan,2021-10-16,21.70
-Michigan,2021-10-23,23.26
+Michigan,2021-10-23,23.27
 Michigan,2021-10-30,23.24
 Michigan,2021-11-06,23.96
-Michigan,2021-11-13,25.61
-Michigan,2021-11-20,25.89
-Michigan,2021-11-27,28.10
-Michigan,2021-12-04,28.85
-Michigan,2021-12-11,30.65
-Michigan,2021-12-18,28.57
-Michigan,2021-12-25,27.82
-Michigan,2022-01-01,26.51
-Michigan,2022-01-08,27.03
-Michigan,2022-01-15,26.73
-Michigan,2022-01-22,25.65
-Michigan,2022-01-29,21.39
-Michigan,2022-02-05,14.32
+Michigan,2021-11-13,25.62
+Michigan,2021-11-20,25.90
+Michigan,2021-11-27,28.12
+Michigan,2021-12-04,28.88
+Michigan,2021-12-11,30.70
+Michigan,2021-12-18,28.66
+Michigan,2021-12-25,27.94
+Michigan,2022-01-01,26.61
+Michigan,2022-01-08,27.25
+Michigan,2022-01-15,27.22
+Michigan,2022-01-22,26.74
+Michigan,2022-01-29,24.42
+Michigan,2022-02-05,19.49
+Michigan,2022-02-12,11.66
 New Mexico,2020-01-04,19.27
 New Mexico,2020-01-11,19.36
 New Mexico,2020-01-18,18.32
@@ -5413,7 +5466,7 @@ New Mexico,2021-01-09,27.91
 New Mexico,2021-01-16,25.36
 New Mexico,2021-01-23,25.22
 New Mexico,2021-01-30,22.90
-New Mexico,2021-02-06,22.34
+New Mexico,2021-02-06,22.38
 New Mexico,2021-02-13,22.53
 New Mexico,2021-02-20,20.73
 New Mexico,2021-02-27,21.82
@@ -5426,7 +5479,7 @@ New Mexico,2021-04-10,19.88
 New Mexico,2021-04-17,20.68
 New Mexico,2021-04-24,19.55
 New Mexico,2021-05-01,18.61
-New Mexico,2021-05-08,19.93
+New Mexico,2021-05-08,19.98
 New Mexico,2021-05-15,20.73
 New Mexico,2021-05-22,19.27
 New Mexico,2021-05-29,19.17
@@ -5434,38 +5487,39 @@ New Mexico,2021-06-05,19.46
 New Mexico,2021-06-12,16.91
 New Mexico,2021-06-19,19.74
 New Mexico,2021-06-26,19.17
-New Mexico,2021-07-03,19.32
-New Mexico,2021-07-10,17.99
+New Mexico,2021-07-03,19.36
+New Mexico,2021-07-10,18.04
 New Mexico,2021-07-17,18.84
 New Mexico,2021-07-24,18.61
 New Mexico,2021-07-31,17.99
 New Mexico,2021-08-07,19.08
-New Mexico,2021-08-14,21.25
+New Mexico,2021-08-14,21.30
 New Mexico,2021-08-21,21.11
-New Mexico,2021-08-28,21.63
-New Mexico,2021-09-04,21.35
-New Mexico,2021-09-11,24.79
+New Mexico,2021-08-28,21.68
+New Mexico,2021-09-04,21.39
+New Mexico,2021-09-11,24.84
 New Mexico,2021-09-18,22.81
-New Mexico,2021-09-25,21.39
-New Mexico,2021-10-02,22.48
-New Mexico,2021-10-09,22.01
-New Mexico,2021-10-16,21.44
-New Mexico,2021-10-23,22.57
-New Mexico,2021-10-30,21.20
-New Mexico,2021-11-06,25.45
-New Mexico,2021-11-13,22.38
-New Mexico,2021-11-20,25.27
-New Mexico,2021-11-27,23.47
-New Mexico,2021-12-04,24.79
-New Mexico,2021-12-11,29.00
-New Mexico,2021-12-18,25.27
-New Mexico,2021-12-25,25.74
-New Mexico,2022-01-01,25.55
-New Mexico,2022-01-08,24.27
-New Mexico,2022-01-15,22.53
-New Mexico,2022-01-22,18.94
-New Mexico,2022-01-29,15.54
-New Mexico,2022-02-05,9.96
+New Mexico,2021-09-25,21.49
+New Mexico,2021-10-02,22.62
+New Mexico,2021-10-09,22.10
+New Mexico,2021-10-16,21.49
+New Mexico,2021-10-23,22.62
+New Mexico,2021-10-30,21.44
+New Mexico,2021-11-06,25.88
+New Mexico,2021-11-13,22.62
+New Mexico,2021-11-20,25.60
+New Mexico,2021-11-27,23.85
+New Mexico,2021-12-04,25.17
+New Mexico,2021-12-11,29.14
+New Mexico,2021-12-18,25.97
+New Mexico,2021-12-25,26.30
+New Mexico,2022-01-01,26.26
+New Mexico,2022-01-08,25.69
+New Mexico,2022-01-15,24.04
+New Mexico,2022-01-22,20.87
+New Mexico,2022-01-29,19.27
+New Mexico,2022-02-05,16.06
+New Mexico,2022-02-12,10.15
 New Hampshire,2020-01-04,18.95
 New Hampshire,2020-01-11,19.09
 New Hampshire,2020-01-18,17.79
@@ -5569,13 +5623,14 @@ New Hampshire,2021-11-27,21.49
 New Hampshire,2021-12-04,22.43
 New Hampshire,2021-12-11,22.07
 New Hampshire,2021-12-18,23.59
-New Hampshire,2021-12-25,24.25
+New Hampshire,2021-12-25,24.32
 New Hampshire,2022-01-01,24.10
-New Hampshire,2022-01-08,23.38
-New Hampshire,2022-01-15,23.81
-New Hampshire,2022-01-22,24.46
-New Hampshire,2022-01-29,23.16
-New Hampshire,2022-02-05,17.42
+New Hampshire,2022-01-08,23.30
+New Hampshire,2022-01-15,23.88
+New Hampshire,2022-01-22,24.39
+New Hampshire,2022-01-29,24.25
+New Hampshire,2022-02-05,20.76
+New Hampshire,2022-02-12,17.06
 Louisiana,2020-01-04,19.90
 Louisiana,2020-01-11,20.76
 Louisiana,2020-01-18,20.61
@@ -5636,16 +5691,16 @@ Louisiana,2021-01-30,26.88
 Louisiana,2021-02-06,25.81
 Louisiana,2021-02-13,25.01
 Louisiana,2021-02-20,24.95
-Louisiana,2021-02-27,23.77
+Louisiana,2021-02-27,23.79
 Louisiana,2021-03-06,23.12
 Louisiana,2021-03-13,22.54
 Louisiana,2021-03-20,21.60
-Louisiana,2021-03-27,21.98
-Louisiana,2021-04-03,21.25
+Louisiana,2021-03-27,22.01
+Louisiana,2021-04-03,21.30
 Louisiana,2021-04-10,20.83
 Louisiana,2021-04-17,20.89
 Louisiana,2021-04-24,21.45
-Louisiana,2021-05-01,21.43
+Louisiana,2021-05-01,21.45
 Louisiana,2021-05-08,20.55
 Louisiana,2021-05-15,20.16
 Louisiana,2021-05-22,20.74
@@ -5657,34 +5712,35 @@ Louisiana,2021-06-26,21.23
 Louisiana,2021-07-03,19.99
 Louisiana,2021-07-10,21.10
 Louisiana,2021-07-17,22.16
-Louisiana,2021-07-24,23.36
-Louisiana,2021-07-31,25.16
+Louisiana,2021-07-24,23.40
+Louisiana,2021-07-31,25.18
 Louisiana,2021-08-07,28.08
 Louisiana,2021-08-14,29.84
-Louisiana,2021-08-21,30.06
+Louisiana,2021-08-21,30.10
 Louisiana,2021-08-28,30.14
-Louisiana,2021-09-04,30.19
-Louisiana,2021-09-11,26.92
-Louisiana,2021-09-18,27.70
-Louisiana,2021-09-25,25.08
-Louisiana,2021-10-02,23.81
-Louisiana,2021-10-09,23.17
-Louisiana,2021-10-16,21.66
-Louisiana,2021-10-23,20.72
-Louisiana,2021-10-30,20.37
-Louisiana,2021-11-06,21.51
-Louisiana,2021-11-13,20.35
-Louisiana,2021-11-20,20.63
-Louisiana,2021-11-27,19.77
-Louisiana,2021-12-04,19.92
-Louisiana,2021-12-11,19.64
-Louisiana,2021-12-18,18.70
-Louisiana,2021-12-25,18.61
-Louisiana,2022-01-01,17.99
-Louisiana,2022-01-08,19.47
-Louisiana,2022-01-15,20.07
-Louisiana,2022-01-22,19.64
-Louisiana,2022-01-29,15.11
+Louisiana,2021-09-04,30.27
+Louisiana,2021-09-11,26.97
+Louisiana,2021-09-18,27.76
+Louisiana,2021-09-25,25.16
+Louisiana,2021-10-02,23.85
+Louisiana,2021-10-09,23.27
+Louisiana,2021-10-16,21.81
+Louisiana,2021-10-23,20.76
+Louisiana,2021-10-30,20.55
+Louisiana,2021-11-06,21.79
+Louisiana,2021-11-13,20.48
+Louisiana,2021-11-20,20.95
+Louisiana,2021-11-27,20.01
+Louisiana,2021-12-04,20.29
+Louisiana,2021-12-11,20.29
+Louisiana,2021-12-18,19.28
+Louisiana,2021-12-25,19.30
+Louisiana,2022-01-01,18.87
+Louisiana,2022-01-08,20.57
+Louisiana,2022-01-15,22.05
+Louisiana,2022-01-22,23.12
+Louisiana,2022-01-29,20.74
+Louisiana,2022-02-05,15.07
 Ohio,2020-01-04,21.53
 Ohio,2020-01-11,22.17
 Ohio,2020-01-18,20.99
@@ -5747,7 +5803,7 @@ Ohio,2021-02-13,24.98
 Ohio,2021-02-20,24.14
 Ohio,2021-02-27,23.53
 Ohio,2021-03-06,21.80
-Ohio,2021-03-13,21.60
+Ohio,2021-03-13,21.61
 Ohio,2021-03-20,20.40
 Ohio,2021-03-27,21.11
 Ohio,2021-04-03,20.29
@@ -5771,26 +5827,27 @@ Ohio,2021-07-31,19.90
 Ohio,2021-08-07,20.81
 Ohio,2021-08-14,21.71
 Ohio,2021-08-21,21.64
-Ohio,2021-08-28,23.00
+Ohio,2021-08-28,23.01
 Ohio,2021-09-04,23.31
 Ohio,2021-09-11,23.88
 Ohio,2021-09-18,26.51
 Ohio,2021-09-25,26.50
 Ohio,2021-10-02,27.48
 Ohio,2021-10-09,26.71
-Ohio,2021-10-16,26.34
+Ohio,2021-10-16,26.35
 Ohio,2021-10-23,25.51
 Ohio,2021-10-30,25.87
-Ohio,2021-11-06,25.41
-Ohio,2021-11-13,25.92
-Ohio,2021-11-20,26.26
-Ohio,2021-11-27,27.85
-Ohio,2021-12-04,29.46
-Ohio,2021-12-11,29.85
-Ohio,2021-12-18,30.36
-Ohio,2021-12-25,29.65
-Ohio,2022-01-01,30.54
-Ohio,2022-01-08,31.53
-Ohio,2022-01-15,30.29
-Ohio,2022-01-22,25.23
-Ohio,2022-01-29,16.95
+Ohio,2021-11-06,25.42
+Ohio,2021-11-13,25.95
+Ohio,2021-11-20,26.29
+Ohio,2021-11-27,27.87
+Ohio,2021-12-04,29.53
+Ohio,2021-12-11,29.91
+Ohio,2021-12-18,30.54
+Ohio,2021-12-25,29.82
+Ohio,2022-01-01,30.85
+Ohio,2022-01-08,32.37
+Ohio,2022-01-15,32.66
+Ohio,2022-01-22,29.24
+Ohio,2022-01-29,23.94
+Ohio,2022-02-05,16.92
