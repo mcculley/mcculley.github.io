@@ -645,5 +645,245 @@
 			<coordinates>-83.73156587205102,34.70148492788071,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark>
+		<name>Fort Rucker</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-85.71537541755337</longitude>
+			<latitude>31.34005150215549</latitude>
+			<altitude>0</altitude>
+			<heading>-9.129795332929085e-09</heading>
+			<tilt>0</tilt>
+			<range>13425.34482599655</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-85.71537541755336,31.34005150215549,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Redstone Arsenal</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-86.65101403751375</longitude>
+			<latitude>34.69501789252516</latitude>
+			<altitude>0</altitude>
+			<heading>6.584316452383029e-07</heading>
+			<tilt>0</tilt>
+			<range>6917.954245780023</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-86.65101403751376,34.69501789252516,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Huntsville</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-86.59208013843963</longitude>
+			<latitude>34.72712165392021</latitude>
+			<altitude>0</altitude>
+			<heading>-2.034002394453968e-06</heading>
+			<tilt>0</tilt>
+			<range>47820.93937078127</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-86.59208013843963,34.72712165392022,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fort Stewart</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-81.60898729323593</longitude>
+			<latitude>31.8690667120982</latitude>
+			<altitude>0</altitude>
+			<heading>3.571283438665299e-09</heading>
+			<tilt>0</tilt>
+			<range>6675.501914578439</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-81.60898729323593,31.8690667120982,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Savannah</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-81.09120296043395</longitude>
+			<latitude>32.08089886076596</latitude>
+			<altitude>0</altitude>
+			<heading>2.101416968313993e-08</heading>
+			<tilt>0</tilt>
+			<range>53276.12678430427</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-81.09120296043393,32.08089886076595,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>St. Augustine</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-81.31243289092737</longitude>
+			<latitude>29.90125568508281</latitude>
+			<altitude>0</altitude>
+			<heading>-2.310152080740288e-08</heading>
+			<tilt>0</tilt>
+			<range>13772.7737141853</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-81.31243289092738,29.90125568508281,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Jacksonville</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-81.65559273596203</longitude>
+			<latitude>30.33211067598802</latitude>
+			<altitude>0</altitude>
+			<heading>2.154139154692738e-07</heading>
+			<tilt>0</tilt>
+			<range>108760.4272049093</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-81.65559273596203,30.33211067598802,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Miami</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-80.19179566541033</longitude>
+			<latitude>25.76169722709615</latitude>
+			<altitude>0</altitude>
+			<heading>2.52264736418181e-07</heading>
+			<tilt>0</tilt>
+			<range>28524.6653019846</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-80.19179566541034,25.76169722709615,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Key West</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-81.7841611592636</longitude>
+			<latitude>24.55542670228753</latitude>
+			<altitude>0</altitude>
+			<heading>-1.28800776060818e-07</heading>
+			<tilt>0</tilt>
+			<range>7305.881892305616</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-81.78416115926359,24.55542670228753,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AUTEC</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-77.76274300175749</longitude>
+			<latitude>24.71865071167777</latitude>
+			<altitude>0</altitude>
+			<heading>0.1070345242101055</heading>
+			<tilt>0</tilt>
+			<range>7699.844888718969</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-77.76504101050247,24.70756326725463,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
