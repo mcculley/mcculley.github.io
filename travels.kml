@@ -885,5 +885,437 @@
 			<coordinates>-77.76504101050247,24.70756326725463,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark>
+		<name>Spanish Wells</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-76.77116259138045</longitude>
+			<latitude>25.54611640613134</latitude>
+			<altitude>0</altitude>
+			<heading>3.717052235410122e-09</heading>
+			<tilt>0</tilt>
+			<range>14187.07861082929</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-76.77116259138045,25.54611640613135,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Walkers Cay</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-78.40341879840567</longitude>
+			<latitude>27.25994070340529</latitude>
+			<altitude>0</altitude>
+			<heading>7.302577402800345e-10</heading>
+			<tilt>0</tilt>
+			<range>1000.000045397228</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-78.40341879840565,27.25994070340529,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MM Shipyard</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-76.48787078251539</longitude>
+			<latitude>25.35173703269492</latitude>
+			<altitude>0</altitude>
+			<heading>0.01383276363451211</heading>
+			<tilt>0</tilt>
+			<range>1010.802659186157</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-76.48926343183297,25.35202424275295,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Colorado Springs</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-104.8206340187546</longitude>
+			<latitude>38.83409086227192</latitude>
+			<altitude>0</altitude>
+			<heading>-5.744172805894189e-05</heading>
+			<tilt>0</tilt>
+			<range>51790.92282677202</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-104.8206340187546,38.83409086227192,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kirtland AFB</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-106.511266227308</longitude>
+			<latitude>35.01285121227475</latitude>
+			<altitude>0</altitude>
+			<heading>-2.112193927991117e-07</heading>
+			<tilt>0</tilt>
+			<range>25918.76895559485</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-106.511266227308,35.01285121227475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fort Belvoir</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-77.15429337586659</longitude>
+			<latitude>38.71886854869521</latitude>
+			<altitude>0</altitude>
+			<heading>-9.975369235684163e-07</heading>
+			<tilt>0</tilt>
+			<range>12642.64886005147</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-77.1542933758666,38.71886854869522,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fort Monmouth</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-74.04248661542871</longitude>
+			<latitude>40.3135538936927</latitude>
+			<altitude>0</altitude>
+			<heading>-2.103777855887387e-06</heading>
+			<tilt>0</tilt>
+			<range>3663.75138968844</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-74.04248661542871,40.3135538936927,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>West End</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-78.98048598828227</longitude>
+			<latitude>26.69466669382684</latitude>
+			<altitude>0</altitude>
+			<heading>-0.004151970054820696</heading>
+			<tilt>0</tilt>
+			<range>3739.092920239006</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-78.99035526199994,26.69756695717069,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Nassau</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-77.35036690919303</longitude>
+			<latitude>25.04433735616057</latitude>
+			<altitude>0</altitude>
+			<heading>9.160982500399776e-08</heading>
+			<tilt>0</tilt>
+			<range>28602.58087434359</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-77.35036690919303,25.04433735616057,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tampa</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-82.4571775708411</longitude>
+			<latitude>27.95057501278493</latitude>
+			<altitude>0</altitude>
+			<heading>1.366702117974156e-08</heading>
+			<tilt>0</tilt>
+			<range>55493.91616108143</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-82.45717757084111,27.95057501278493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Vinoy</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-82.63010928491794</longitude>
+			<latitude>27.77791011474784</latitude>
+			<altitude>0</altitude>
+			<heading>-9.851330799564543e-10</heading>
+			<tilt>0</tilt>
+			<range>1017.601384760177</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-82.63010928491792,27.77791011474783,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Monterey</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-121.9142530947244</longitude>
+			<latitude>36.57319552372272</latitude>
+			<altitude>0</altitude>
+			<heading>-0.0116930941638263</heading>
+			<tilt>0</tilt>
+			<range>13280.07769585654</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-121.895127131697,36.5988986589193,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Philadelphia</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-75.16652500341843</longitude>
+			<latitude>39.95252092889239</latitude>
+			<altitude>0</altitude>
+			<heading>-3.221116507300359e-05</heading>
+			<tilt>0</tilt>
+			<range>52627.93460658131</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-75.16652500341843,39.9525209288924,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Pittsburgh</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-79.99588353825133</longitude>
+			<latitude>40.44062451299531</latitude>
+			<altitude>0</altitude>
+			<heading>9.392955619981382e-09</heading>
+			<tilt>0</tilt>
+			<range>24001.07524140881</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-79.99588353825133,40.44062451299531,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Houston</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-95.36960854488515</longitude>
+			<latitude>29.76056891713506</latitude>
+			<altitude>0</altitude>
+			<heading>-2.206487617110184e-05</heading>
+			<tilt>0</tilt>
+			<range>110355.4880228923</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-95.36960854488514,29.76056891713506,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Dallas</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-96.7969230199829</longitude>
+			<latitude>32.77652929648224</latitude>
+			<altitude>0</altitude>
+			<heading>1.992641936187124e-06</heading>
+			<tilt>0</tilt>
+			<range>53536.27851447934</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-96.79692301998288,32.77652929648225,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Austin</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-97.74305089887143</longitude>
+			<latitude>30.26717962107724</latitude>
+			<altitude>0</altitude>
+			<heading>-2.494604644145561e-07</heading>
+			<tilt>0</tilt>
+			<range>54512.38159834239</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-97.74305089887145,30.26717962107725,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Malaga</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-4.421728426495598</longitude>
+			<latitude>36.72117802482378</latitude>
+			<altitude>0</altitude>
+			<heading>-5.933053782962714e-07</heading>
+			<tilt>0</tilt>
+			<range>50588.86669327194</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-4.421728426495598,36.72117802482378,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
