@@ -381,5 +381,197 @@
 			<coordinates>-85.96526860185398,37.88366369773264,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark>
+		<name>Las Vegas</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-115.139599522732</longitude>
+			<latitude>36.16995462239129</latitude>
+			<altitude>0</altitude>
+			<heading>-4.248357012228277e-06</heading>
+			<tilt>0</tilt>
+			<range>52208.08129092692</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-115.139599522732,36.16995462239129,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fort McCoy</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-90.68835731869983</longitude>
+			<latitude>44.01271537062105</latitude>
+			<altitude>0</altitude>
+			<heading>-1.900072751330461e-07</heading>
+			<tilt>0</tilt>
+			<range>2909.942533756158</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-90.68835731869981,44.01271537062104,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fort Drum</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-75.74890235160687</longitude>
+			<latitude>44.05804780997062</latitude>
+			<altitude>0</altitude>
+			<heading>-5.542549883025526e-08</heading>
+			<tilt>0</tilt>
+			<range>23453.72238640784</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-75.74890235160687,44.05804780997063,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kalamazoo</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-85.58659736777761</longitude>
+			<latitude>42.29182154686875</latitude>
+			<altitude>0</altitude>
+			<heading>-1.333574477871486e-05</heading>
+			<tilt>0</tilt>
+			<range>25422.77378870688</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-85.58659736777761,42.29182154686875,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lakeview</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-85.27419786840746</longitude>
+			<latitude>43.44641765896533</latitude>
+			<altitude>0</altitude>
+			<heading>-5.806438914669214e-09</heading>
+			<tilt>0</tilt>
+			<range>5742.878877874765</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-85.27419786840747,43.44641765896533,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Minneapolis</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-93.26498326434309</longitude>
+			<latitude>44.97774779425605</latitude>
+			<altitude>0</altitude>
+			<heading>5.146153969759686e-07</heading>
+			<tilt>0</tilt>
+			<range>22552.22659880916</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-93.26498326434309,44.97774779425605,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fort Benning</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-84.95522201679992</longitude>
+			<latitude>32.35305760918768</latitude>
+			<altitude>0</altitude>
+			<heading>1.299232029520012e-07</heading>
+			<tilt>0</tilt>
+			<range>13349.27134411621</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-84.95522201679992,32.35305760918768,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fort Hood</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-97.77897519961711</longitude>
+			<latitude>31.13640088294067</latitude>
+			<altitude>0</altitude>
+			<heading>-9.110028467062916e-06</heading>
+			<tilt>0</tilt>
+			<range>15909.42675798102</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-97.77897519961712,31.13640088294067,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
