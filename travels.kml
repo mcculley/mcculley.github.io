@@ -357,5 +357,29 @@
 			<coordinates>12.49636431922466,41.90278565922068,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark>
+		<name>Fort Knox</name>
+		<LookAt>
+			<gx:TimeStamp><when>2020-12-31</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-85.96526860185399</longitude>
+			<latitude>37.88366369773264</latitude>
+			<altitude>0</altitude>
+			<heading>-1.138451320807068e-09</heading>
+			<tilt>0</tilt>
+			<range>12406.64159101408</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-85.96526860185398,37.88366369773264,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
