@@ -2253,5 +2253,77 @@
 			<coordinates>-81.37892692297142,28.5383832164127,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark>
+		<name>Freeport</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-78.64275695594324</longitude>
+			<latitude>26.53332406818266</latitude>
+			<altitude>0</altitude>
+			<heading>0.0002310868060348709</heading>
+			<tilt>0</tilt>
+			<range>14992.82826116609</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-78.64275695594324,26.53332406818266,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hilton Head</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-80.75260802731911</longitude>
+			<latitude>32.21631601956751</latitude>
+			<altitude>0</altitude>
+			<heading>-1.456429342446926e-08</heading>
+			<tilt>0</tilt>
+			<range>26605.21031670546</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-80.75260802731911,32.21631601956751,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fort Lauderdale</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-80.13715989738972</longitude>
+			<latitude>26.12291600387258</latitude>
+			<altitude>0</altitude>
+			<heading>9.455064209326133e-05</heading>
+			<tilt>0</tilt>
+			<range>30204.60168482773</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-80.13715989738971,26.12291600387258,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
