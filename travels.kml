@@ -40,6 +40,15 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
 	<StyleMap id="m_ylw-pushpin250">
 		<Pair>
 			<key>normal</key>
@@ -78,6 +87,25 @@
 			<styleUrl>#s_ylw-pushpin_hl28</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
 	<Style id="s_ylw-pushpin28">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -2491,6 +2519,57 @@
 		<Point>
 			<gx:drawOrder>1</gx:drawOrder>
 			<coordinates>-82.14009230376023,29.1871985902181,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hammock Beach</name>
+		<LookAt>
+			<longitude>-81.18796290915635</longitude>
+			<latitude>29.60534630849365</latitude>
+			<altitude>0</altitude>
+			<heading>0.0003586583654286186</heading>
+			<tilt>0</tilt>
+			<range>2381.57376763821</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-81.18796290915635,29.60534630849365,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ponce Inlet</name>
+		<LookAt>
+			<longitude>-80.92491389555147</longitude>
+			<latitude>29.07827929533701</latitude>
+			<altitude>0</altitude>
+			<heading>0.005871346701918017</heading>
+			<tilt>0</tilt>
+			<range>3923.445592827823</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-80.92160553193943,29.07841240611578,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wildcat 5k</name>
+		<LookAt>
+			<longitude>-81.45790555734285</longitude>
+			<latitude>29.24628198894033</latitude>
+			<altitude>0</altitude>
+			<heading>6.912335031923227e-08</heading>
+			<tilt>0</tilt>
+			<range>1055.76150420685</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-81.45790555734285,29.24628198894033,0</coordinates>
 		</Point>
 	</Placemark>
 </Document>
