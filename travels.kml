@@ -2181,5 +2181,77 @@
 			<coordinates>-114.737658508425,36.01606331160406,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark>
+		<name>Tallahassee</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-84.28073296242412</longitude>
+			<latitude>30.43825590451477</latitude>
+			<altitude>0</altitude>
+			<heading>-3.162466588691499e-08</heading>
+			<tilt>0</tilt>
+			<range>54170.04811051702</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-84.28073296242414,30.43825590451477,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Dothan</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-85.39040304103243</longitude>
+			<latitude>31.22318233686444</latitude>
+			<altitude>0</altitude>
+			<heading>5.033728454009328e-06</heading>
+			<tilt>0</tilt>
+			<range>27359.46954662659</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-85.39040304103243,31.22318233686444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Orlando</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-81.37892692297142</longitude>
+			<latitude>28.53838321641271</latitude>
+			<altitude>0</altitude>
+			<heading>-1.097454448046205e-08</heading>
+			<tilt>0</tilt>
+			<range>55241.04671224438</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-81.37892692297142,28.5383832164127,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
