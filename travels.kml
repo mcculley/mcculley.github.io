@@ -84,7 +84,7 @@
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>Home in The Springs</name>
+		<name>The Springs</name>
 		<LookAt>
 			<longitude>-81.39977869974001</longitude>
 			<latitude>28.69222679970389</latitude>
@@ -101,7 +101,7 @@
 		</Point>
 	</Placemark>
 	<Placemark>
-		<name>home in Fort Pierce</name>
+		<name>Fort Pierce (childhood home)</name>
 		<LookAt>
 			<longitude>-80.34826999451381</longitude>
 			<latitude>27.48368118295945</latitude>
