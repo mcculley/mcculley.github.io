@@ -2572,5 +2572,22 @@
 			<coordinates>-81.45790555734285,29.24628198894033,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark>
+		<name>Quincy</name>
+		<LookAt>
+			<longitude>-84.88383724603817</longitude>
+			<latitude>41.94422994781151</latitude>
+			<altitude>0</altitude>
+			<heading>-2.243829095073555e-05</heading>
+			<tilt>0</tilt>
+			<range>3106.590057144293</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-84.88383724603818,41.94422994781151,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
