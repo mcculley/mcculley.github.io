@@ -2325,5 +2325,53 @@
 			<coordinates>-80.13715989738971,26.12291600387258,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark>
+		<name>Washington, D.C.</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-77.03691543823427</longitude>
+			<latitude>38.90715596693877</latitude>
+			<altitude>0</altitude>
+			<heading>5.273693400649798e-06</heading>
+			<tilt>0</tilt>
+			<range>24972.12462990615</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-77.03691543823427,38.90715596693877,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>National Cryptologic Museum</name>
+		<LookAt>
+			<gx:TimeStamp><when>2022-02-03</when>
+</gx:TimeStamp>
+			<gx:ViewerOptions>
+				<gx:option name="historicalimagery"></gx:option>
+				<gx:option enabled="0" name="sunlight"></gx:option>
+				<gx:option enabled="0" name="streetview"></gx:option>
+			</gx:ViewerOptions>
+			<longitude>-76.77474827256455</longitude>
+			<latitude>39.11482879430394</latitude>
+			<altitude>0</altitude>
+			<heading>-2.373488931042149e-11</heading>
+			<tilt>0</tilt>
+			<range>1000.273670650079</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-76.77477265834519,39.11478716963625,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
